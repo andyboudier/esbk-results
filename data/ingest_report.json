@@ -1,0 +1,60 @@
+{
+ "failures": [
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/05/supersport-300-entrenamiento-libre-3-Clasificacion.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "navarra",
+   "meta": {
+    "year": 2026,
+    "class": "Supersport 300",
+    "session": "Ent. Libre 3",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/05/supersport-300-entrenamiento-libre-4-Clasificacion.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "navarra",
+   "meta": {
+    "year": 2026,
+    "class": "Supersport 300",
+    "session": "Ent. Libre 4",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/05/Supersport-300-Entrenamiento-Cronometrado-Clasificacion.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "navarra",
+   "meta": {
+    "year": 2026,
+    "class": "Supersport 300",
+    "session": "Ent. Crono",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/03/spbses3.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2026,
+    "class": "Sportbike",
+    "session": "Ent. Libre 3",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  }
+ ]
+}

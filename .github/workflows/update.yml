@@ -1,0 +1,59 @@
+name: Update results database
+
+on:
+  schedule:
+    # Mondays 06:00 UTC (results are published over race weekends) and
+    # Sunday evening for same-day results.
+    - cron: "0 6 * * 1"
+    - cron: "0 20 * * 0"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-results
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Scrape inventory
+        run: python scripts/scrape_inventory.py
+
+      - name: Ingest new PDFs
+        run: python scripts/ingest.py --workers 6
+
+      - name: Upload to Firestore (if configured)
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: |
+          if [ -n "$FIREBASE_SERVICE_ACCOUNT" ]; then
+            pip install google-cloud-firestore
+            python scripts/upload_firestore.py
+          else
+            echo "FIREBASE_SERVICE_ACCOUNT secret not set; skipping."
+          fi
+
+      - name: Commit updated data
+        run: |
+          git config user.name "esbk-results-bot"
+          git config user.email "actions@github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No new results."
+          else
+            git commit -m "data: automated results update $(date -u +%F)"
+            git push
+          fi

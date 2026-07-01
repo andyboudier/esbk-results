@@ -1,0 +1,6214 @@
+{
+"https://rfme.com/wp-content/uploads/2026/06/ESBK-TALENT_LIBRES-3_BOOKLET-REVISADA.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-esbk-talent-ent-libre-3-revisada",
+"results": 27,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/PRE-TALENT_LIBRES-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-pre-talent-ent-libre-3",
+"results": 14,
+"lap_riders": 9,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SUPERSPORT-300_LIBRES-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-supersport-300-ent-libre-3",
+"results": 17,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SBK_LIBRES-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-sbk-ent-libre-3",
+"results": 13,
+"lap_riders": 8,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SUPERSPORT_LIBRES-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-supersport-ent-libre-3",
+"results": 25,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SPORTBIKE_LIBRES-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-sportbike-ent-libre-3",
+"results": 11,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/YAMAHA-R7_LIBRES-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-yamaha-r7-ent-libre-3",
+"results": 28,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/ESBK-TALENT_LIBRES-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-esbk-talent-ent-libre-4",
+"results": 27,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/PRE-TALENT_LIBRES-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-pre-talent-ent-libre-4",
+"results": 14,
+"lap_riders": 10,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SUPERSPORT-300_LIBRES-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-supersport-300-ent-libre-4",
+"results": 16,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SBK_LIBRES-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-sbk-ent-libre-4",
+"results": 13,
+"lap_riders": 9,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SUPERSPORT_LIBRES-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-supersport-ent-libre-4",
+"results": 23,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SPORTBIKE_LIBRES-4_BOOKLET-002.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-sportbike-ent-libre-4",
+"results": 11,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/YAMAHA-R7_LIBRES-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-yamaha-r7-ent-libre-4",
+"results": 29,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/ESBK-TALENT_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-esbk-talent-ent-crono",
+"results": 26,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/PRE-TALENT_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-pre-talent-ent-crono",
+"results": 14,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SUPERSPORT-300_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-supersport-300-ent-crono",
+"results": 17,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SBK_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-sbk-ent-crono",
+"results": 4,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SUPERSPORT_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-supersport-ent-crono",
+"results": 23,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SPORTBIKE_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-sportbike-ent-crono",
+"results": 11,
+"lap_riders": 5,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/YAMAHA-R7_ENTRENAMIENTO-CRONOMETRADO_BOOKLET1.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-yamaha-r7-ent-crono",
+"results": 29,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/ESBK-TALENT_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-esbk-talent-carrera-1",
+"results": 24,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/PRE-TALENT_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-pre-talent-carrera-1",
+"results": 12,
+"lap_riders": 10,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/03_Classification_CARRERA-1.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-supersport-300-carrera-1",
+"results": 16,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SBK_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-sbk-carrera-1",
+"results": 11,
+"lap_riders": 8,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SUPERSPORT_CARRERA-1-a_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-supersport-carrera-1",
+"results": 21,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SPORTBIKE_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-sportbike-carrera-1",
+"results": 11,
+"lap_riders": 8,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/YAMAHA-R7_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-yamaha-r7-carrera-1",
+"results": 27,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/ESBK-TALENT_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-esbk-talent-carrera-2",
+"results": 23,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/PRE-TALENT_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-pre-talent-carrera-2",
+"results": 13,
+"lap_riders": 9,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SUPERSPORT-300_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-supersport-300-carrera-2",
+"results": 15,
+"lap_riders": 8,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SBK_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-sbk-carrera-2",
+"results": 11,
+"lap_riders": 8,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SUPERSPORT_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-supersport-carrera-2",
+"results": 18,
+"lap_riders": 8,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/SPORTBIKE_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-sportbike-carrera-2",
+"results": 11,
+"lap_riders": 8,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/06/YAMAHA-R7_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-03-circuito-do-estoril-yamaha-r7-carrera-2",
+"results": 28,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/esbk-talent-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-esbk-talent-ent-libre-3",
+"results": 25,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/pre-talent-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-pre-talent-ent-libre-3",
+"results": 14,
+"lap_riders": 14,
+"warnings": [
+"1 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/05/supersport-300-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "empty",
+"session_id": "2026-02-circuito-de-navarra-supersport-300-ent-libre-3",
+"results": 0,
+"lap_riders": 14,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/05/sbk-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-sbk-ent-libre-3",
+"results": 13,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/supersport-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-supersport-ent-libre-3",
+"results": 17,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/Sportbike-Entrenamiento-Libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-sportbike-ent-libre-3",
+"results": 13,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/yamaha-r7-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-yamaha-r7-ent-libre-3",
+"results": 14,
+"lap_riders": 31,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/esbk-talent-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-esbk-talent-ent-libre-4",
+"results": 26,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/pre-talent-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-pre-talent-ent-libre-4",
+"results": 14,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/supersport-300-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "empty",
+"session_id": "2026-02-circuito-de-navarra-supersport-300-ent-libre-4",
+"results": 0,
+"lap_riders": 14,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/05/sbk-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-sbk-ent-libre-4",
+"results": 13,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/supersport-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-supersport-ent-libre-4",
+"results": 18,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/sportbike-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-sportbike-ent-libre-4",
+"results": 13,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/yamaha-r7-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-yamaha-r7-ent-libre-4",
+"results": 13,
+"lap_riders": 30,
+"warnings": [
+"1 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/05/esbk-talent-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-esbk-talent-ent-crono",
+"results": 26,
+"lap_riders": 26,
+"warnings": [
+"2 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/05/pre-talent-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-pre-talent-ent-crono",
+"results": 14,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/Supersport-300-Entrenamiento-Cronometrado-Clasificacion.pdf": {
+"status": "empty",
+"session_id": "2026-02-circuito-de-navarra-supersport-300-ent-crono",
+"results": 0,
+"lap_riders": 14,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/05/sbk-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-sbk-ent-crono",
+"results": 10,
+"lap_riders": 13,
+"warnings": [
+"1 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/05/supersport-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-supersport-ent-crono",
+"results": 18,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/sportbike-entrenamiento-cronometrado-ClasificacionREVISADA.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-sportbike-ent-crono-revisada",
+"results": 12,
+"lap_riders": 13,
+"warnings": [
+"4 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/05/yamaha-r7-entrenamiento-cronometrado-ClasificacionREVISADA.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-yamaha-r7-ent-crono-revisada",
+"results": 13,
+"lap_riders": 30,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/esbk-talent-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-esbk-talent-carrera-1",
+"results": 25,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/pre-talent-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-pre-talent-carrera-1",
+"results": 8,
+"lap_riders": 14,
+"warnings": [
+"5 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/05/supersport-300-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-supersport-300-carrera-1",
+"results": 12,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/sbk-carrera-1_restart-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-sbk-carrera-1",
+"results": 6,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/supersport-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-supersport-carrera-1",
+"results": 9,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/sportbike-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-sportbike-carrera-1",
+"results": 7,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/yamaha-r7-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-yamaha-r7-carrera-1",
+"results": 11,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/ESBK-TALENT-CARRERA-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-esbk-talent-carrera-2",
+"results": 19,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/pre-talent-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-pre-talent-carrera-2",
+"results": 8,
+"lap_riders": 14,
+"warnings": [
+"9 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/05/supersport-300-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-supersport-300-carrera-2",
+"results": 9,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/sbk-carrera-2_restart-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-sbk-carrera-2",
+"results": 4,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/supersport-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-supersport-carrera-2",
+"results": 13,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/sportbike-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-sportbike-carrera-2",
+"results": 7,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/05/yamaha-r7-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-02-circuito-de-navarra-yamaha-r7-carrera-2",
+"results": 10,
+"lap_riders": 29,
+"warnings": [
+"60 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/03/m4ses3-1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-esbk-moto4-ent-libre-3",
+"results": 2,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/pm4ses3-1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-pre-moto4-ent-libre-3",
+"results": 3,
+"lap_riders": 10,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/300ses3-1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-supersport-300-ent-libre-3",
+"results": 3,
+"lap_riders": 6,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sbkses3-1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-sbk-ent-libre-3",
+"results": 1,
+"lap_riders": 3,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sspses3-1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-supersport-ent-libre-3",
+"results": 6,
+"lap_riders": 10,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/spbses3.pdf": {
+"status": "empty",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-sportbike-ent-libre-3",
+"results": 0,
+"lap_riders": 3,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/03/m4ses4-1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-esbk-moto4-ent-libre-4",
+"results": 5,
+"lap_riders": 30,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/pm4ses4-1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-pre-moto4-ent-libre-4",
+"results": 4,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/300ses4-1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-supersport-300-ent-libre-4",
+"results": 10,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sbkses4-1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-sbk-ent-libre-4",
+"results": 14,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sspses4-1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-supersport-ent-libre-4",
+"results": 15,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/spbses4.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-sportbike-ent-libre-4",
+"results": 2,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/m4ent.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-esbk-moto4-ent-crono",
+"results": 5,
+"lap_riders": 30,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/pm4ent-1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-pre-moto4-ent-crono",
+"results": 4,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/300ent.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-supersport-300-ent-crono",
+"results": 13,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sbkent.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-sbk-ent-crono",
+"results": 15,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sspent.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-supersport-ent-crono",
+"results": 16,
+"lap_riders": 27,
+"warnings": [
+"1 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/03/spbent.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-sportbike-ent-crono",
+"results": 6,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/m4ca1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-esbk-moto4-carrera-1",
+"results": 14,
+"lap_riders": 29,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/pm4ca1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-pre-moto4-carrera-1",
+"results": 15,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/300ca1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-supersport-300-carrera-1",
+"results": 15,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sbkca1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-sbk-carrera-1",
+"results": 18,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sspca1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-supersport-carrera-1",
+"results": 24,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/spbca1.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-sportbike-carrera-1",
+"results": 18,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/m4ca2.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-esbk-moto4-carrera-2",
+"results": 25,
+"lap_riders": 28,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/pm4ca2.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-pre-moto4-carrera-2",
+"results": 15,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/300ca2.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-supersport-300-carrera-2",
+"results": 16,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sbkca2.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-sbk-carrera-2",
+"results": 18,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sspca2-REVISADA.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-supersport-revisada-carrera-2",
+"results": 14,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/spbca2.pdf": {
+"status": "ok",
+"session_id": "2026-01-circuito-de-jerez-angel-nieto-sportbike-carrera-2",
+"results": 15,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/pm4ses1.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-pre-moto4-ent-libre-1",
+"results": 4,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/300ses1.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-sportbike-supersport300-ent-libre-1",
+"results": 20,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/m4ses1.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-esbk-moto4-ent-libre-1",
+"results": 3,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sspses1.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-supersport-ent-libre-1",
+"results": 2,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sbkses1.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-sbk-ent-libre-1",
+"results": 2,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/pm4ses2.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-pre-moto4-ent-libre-2",
+"results": 4,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/300ses2.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-sportbike-supersport300-ent-libre-2",
+"results": 24,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/m4ses2.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-esbk-moto4-ent-libre-2",
+"results": 3,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sspses2.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-supersport-ent-libre-2",
+"results": 2,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sbkses2.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-sbk-ent-libre-2",
+"results": 4,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/pm4ses3.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-pre-moto4-ent-libre-3",
+"results": 4,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/300ses3.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-sportbike-supersport300-ent-libre-3",
+"results": 25,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/m4ses3.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-esbk-moto4-ent-libre-3",
+"results": 5,
+"lap_riders": 29,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sspses3.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-supersport-ent-libre-3",
+"results": 2,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sbkses3.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-sbk-ent-libre-3",
+"results": 4,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/pm4ses4.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-pre-moto4-ent-libre-4",
+"results": 3,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/300ses4.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-sportbike-supersport300-ent-libre-4",
+"results": 25,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/m4ses4.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-esbk-moto4-ent-libre-4",
+"results": 5,
+"lap_riders": 29,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sspses4.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-supersport-ent-libre-4",
+"results": 2,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/03/sbkses4.pdf": {
+"status": "ok",
+"session_id": "2026-00-test-oficial-de-pre-temporada-circuito-de-jerez-angel-nieto-sbk-ent-libre-4",
+"results": 4,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/Moto4lib3.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-moto4-ent-libre-3",
+"results": 3,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/TalentFree1.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-esbk-talent-ent-libre-3",
+"results": 6,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/300lib3.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-ss300-ent-libre-3",
+"results": 18,
+"lap_riders": 28,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/SSPlib3.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-3",
+"results": 22,
+"lap_riders": 37,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/Baggerslib3.pdf": {
+"status": "empty",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-bagger-ent-libre-3",
+"results": 0,
+"lap_riders": 9,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/11/Moto4lib4.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-moto4-ent-libre-4",
+"results": 2,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/TalentFree4.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-esbk-talent-ent-libre-4",
+"results": 6,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/300lib2.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-ss300-ent-libre-4",
+"results": 18,
+"lap_riders": 28,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/sbklib2.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-sbk-ent-libre-4",
+"results": 9,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/ssplib2.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-4",
+"results": 22,
+"lap_riders": 36,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/baglib2.pdf": {
+"status": "empty",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-bagger-ent-libre-4",
+"results": 0,
+"lap_riders": 9,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/11/m4ent.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-moto4-ent-crono",
+"results": 3,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/talent.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-esbk-talent-ent-crono",
+"results": 6,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/300ent.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-ss300-ent-crono",
+"results": 15,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/sbkent.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-sbk-ent-crono",
+"results": 6,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/sspent.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-supersport-ng-ent-crono",
+"results": 23,
+"lap_riders": 37,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/bagent.pdf": {
+"status": "empty",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-bagger-ent-crono",
+"results": 0,
+"lap_riders": 11,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/11/m4ca1.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-moto4-carrera-1",
+"results": 16,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/talca1.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-esbk-talent-carrera-1",
+"results": 32,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/300ca1.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-ss300-carrera-1",
+"results": 25,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/sbkca1.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-sbk-carrera-1",
+"results": 15,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/sspca1.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-supersport-ng-carrera-1",
+"results": 32,
+"lap_riders": 36,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/bagca1.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-bagger-carrera-1",
+"results": 9,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/m4ca2.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-moto4-carrera-2",
+"results": 16,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/talca2.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-esbk-talent-carrera-2-revisada",
+"results": 3,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/300ca2.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-ss300-carrera-2",
+"results": 24,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/sbkca2.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-sbk-carrera-2",
+"results": 15,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/sspca2.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-supersport-ng-carrera-2",
+"results": 35,
+"lap_riders": 36,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/11/bagca2.pdf": {
+"status": "ok",
+"session_id": "2025-07-circuito-de-jerez-angel-nieto-bagger-carrera-2",
+"results": 9,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/MOTO4_ENTRENAMIENTO-LIBRE-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-moto4-ent-libre-3",
+"results": 16,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/ESBK-TALENT_ENTRENAMIENTO-LIBRE-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-esbk-talent-ent-libre-3",
+"results": 29,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/SS300_ENTRENAMIENTO-LIBRE-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-ss300-ent-libre-3",
+"results": 31,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/SBK_ENTRENAMIENTO-LIBRE-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-sbk-ent-libre-3",
+"results": 9,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/SUPERSPORT-NG_ENTRENAMIENTO-LIBRE-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-supersport-ng-ent-libre-3",
+"results": 30,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/BMW-IBERIA-CUP_ENTRENAMIENTO-LIBRE-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-bmw-ent-libre-3",
+"results": 9,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/MOTO4_ENTRENAMIENTO-LIBRE-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-moto4-ent-libre-4",
+"results": 16,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/ESBK-TALENT_ENTRENAMIENTO-LIBRE-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-esbk-talent-ent-libre-4",
+"results": 29,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/SS300_ENTRENAMIENTO-LIBRE-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-ss300-ent-crono",
+"results": 32,
+"lap_riders": 27,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/SBK_ENTRENAMIENTO-LIBRE-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-sbk-ent-libre-4",
+"results": 9,
+"lap_riders": 5,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/SUPERSPORT-NG_ENTRENAMIENTO-LIBRE-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-supersport-ng-ent-libre-4",
+"results": 31,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/BMW-IBERIA-CUP_ENTRENAMIENTO-LIBRE-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-bmw-ent-libre-4",
+"results": 8,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/MOTO4_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-moto4-ent-crono",
+"results": 16,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/ESBK-TALENT_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-esbk-talent-ent-crono",
+"results": 29,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/SBK_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-sbk-ent-crono",
+"results": 5,
+"lap_riders": 6,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/SUPERSPORT-NG_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-supersport-ng-ent-crono",
+"results": 31,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/BMW-IBERIA-CUP_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-bmw-ent-crono",
+"results": 9,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/MOTO4_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-moto4-carrera-1",
+"results": 13,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/ESBK-TALENT_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-esbk-talent-carrera-1",
+"results": 28,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/SS300_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-ss300-carrera-1",
+"results": 28,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/SBK_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-sbk-carrera-1",
+"results": 9,
+"lap_riders": 6,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/SUPERSPORT-NG_CARRERA-1_BOOKLET-003.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-supersport-ng-carrera-1",
+"results": 25,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/BMW-IBERIA-CUP_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-bmw-carrera-1",
+"results": 9,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/MOTO4_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-moto4-carrera-2",
+"results": 14,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/ESBK-TALENT_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-esbk-talent-carrera-2",
+"results": 25,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/SS300_CARRERA-2_BOOKLET-004.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-ss300-carrera-2",
+"results": 27,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/SBK_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-sbk-carrera-2",
+"results": 9,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/SUPERSPORT-NG_CARRERA-2_BOOKLET-002.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-supersport-ng-carrera-2",
+"results": 23,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/09/BMW-IBERIA-CUP_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-06-circuito-do-estoril-bmw-carrera-2",
+"results": 10,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/08/moto4-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "empty",
+"session_id": "2025-05-circuito-de-navarra-ii-moto4-ent-libre-3",
+"results": 0,
+"lap_riders": 18,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/esbk-talent-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "empty",
+"session_id": "2025-05-circuito-de-navarra-ii-esbk-talent-ent-libre-3",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/ss300-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-ss300-ent-libre-3",
+"results": 17,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/08/sbk-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-sbk-ent-libre-3",
+"results": 12,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/08/supersport-ng-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-supersport-ng-ent-libre-3",
+"results": 31,
+"lap_riders": 30,
+"warnings": [
+"1 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/yamaha-r7-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-yamaha-r7-cup-ent-libre-3",
+"results": 12,
+"lap_riders": 30,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/08/moto4-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "empty",
+"session_id": "2025-05-circuito-de-navarra-ii-moto4-ent-libre-4",
+"results": 0,
+"lap_riders": 18,
+"warnings": [
+"19 laps with sector/time mismatch",
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/esbk-talent-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "empty",
+"session_id": "2025-05-circuito-de-navarra-ii-esbk-talent-ent-libre-4",
+"results": 0,
+"lap_riders": 32,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/ss300-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-ss300-ent-libre-4",
+"results": 18,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/08/sbk-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-sbk-ent-libre-4",
+"results": 13,
+"lap_riders": 13,
+"warnings": [
+"14 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/supersport-ng-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-supersport-ng-ent-libre-4",
+"results": 31,
+"lap_riders": 31,
+"warnings": [
+"29 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/yamaha-r7-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-yamaha-r7-cup-ent-libre-4",
+"results": 12,
+"lap_riders": 30,
+"warnings": [
+"30 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/moto4-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "empty",
+"session_id": "2025-05-circuito-de-navarra-ii-moto4-ent-crono",
+"results": 0,
+"lap_riders": 18,
+"warnings": [
+"20 laps with sector/time mismatch",
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/esbk-talent-entrenamiento-cronometrado-ClasificacionREVISADA.pdf": {
+"status": "empty",
+"session_id": "2025-05-circuito-de-navarra-ii-esbk-talent-ent-crono-revisada",
+"results": 0,
+"lap_riders": 31,
+"warnings": [
+"22 laps with sector/time mismatch",
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/ss300-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-ss300-ent-crono",
+"results": 17,
+"lap_riders": 24,
+"warnings": [
+"27 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/sbk-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-sbk-ent-crono",
+"results": 12,
+"lap_riders": 12,
+"warnings": [
+"15 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/supersport-ng-entrenamiento-cronometrado-Clasificacion-REVISADA.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-supersport-ng-ent-crono-revisada",
+"results": 31,
+"lap_riders": 31,
+"warnings": [
+"39 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/yamaha-r7-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-yamaha-r7-cup-ent-crono",
+"results": 12,
+"lap_riders": 30,
+"warnings": [
+"27 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/moto4-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-moto4-carrera-1",
+"results": 16,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/08/esbk-talent-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-esbk-talent-carrera-1",
+"results": 29,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/08/ss300-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-ss300-carrera-1",
+"results": 17,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/08/sbk-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-sbk-carrera-1",
+"results": 8,
+"lap_riders": 11,
+"warnings": [
+"1 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/supersport-ng-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-supersport-ng-carrera-1",
+"results": 20,
+"lap_riders": 30,
+"warnings": [
+"2 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/08/yamaha-r7-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-yamaha-r7-cup-carrera-1",
+"results": 26,
+"lap_riders": 30,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/08/moto4-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-moto4-carrera-2",
+"results": 16,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/08/esbk-talent-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-esbk-talent-carrera-2",
+"results": 25,
+"lap_riders": 30,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/08/ss300-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-ss300-carrera-2",
+"results": 21,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/08/sbk-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-sbk-carrera-2",
+"results": 10,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/08/supersport-ng-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-supersport-ng-carrera-2",
+"results": 25,
+"lap_riders": 31,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/08/yamaha-r7-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-05-circuito-de-navarra-ii-yamaha-r7-cup-carrera-2",
+"results": 27,
+"lap_riders": 29,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/07/moto4-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "empty",
+"session_id": "2025-04-circuito-de-navarra-moto4-ent-libre-3",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/esbk-talent-libres-3-Clasificacion.pdf": {
+"status": "empty",
+"session_id": "2025-04-circuito-de-navarra-esbk-talent-ent-libre-3",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/supersport-ng-libres-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-supersport-ng-ent-libre-3",
+"results": 28,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/07/sbk-libres-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-sbk-ent-libre-3",
+"results": 13,
+"lap_riders": 1,
+"warnings": [
+"2 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/yamaha-r7-libres-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-yamaha-r7-cup-ent-libre-3",
+"results": 12,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/07/moto4-libres-4-Clasificacion.pdf": {
+"status": "empty",
+"session_id": "2025-04-circuito-de-navarra-moto4-ent-libre-4",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/esbk-talent-libres-4-Clasificacion.pdf": {
+"status": "empty",
+"session_id": "2025-04-circuito-de-navarra-esbk-talent-ent-libre-4",
+"results": 0,
+"lap_riders": 1,
+"warnings": [
+"1 laps with sector/time mismatch",
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/ss300-libres-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-ss300-ent-libre-4",
+"results": 15,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/07/sbk-libres-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-sbk-ent-libre-4",
+"results": 13,
+"lap_riders": 1,
+"warnings": [
+"1 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/supersport-ng-libres-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-supersport-ng-ent-libre-4",
+"results": 30,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/07/yamaha-r7-libres-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-yamaha-r7-cup-ent-libre-4",
+"results": 12,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/07/moto4-entrenamiento-cronometrado-REVISADA-Clasificacion.pdf": {
+"status": "empty",
+"session_id": "2025-04-circuito-de-navarra-moto4-ent-crono-revisada",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/esbk-talent-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "empty",
+"session_id": "2025-04-circuito-de-navarra-esbk-talent-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/ss300-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-ss300-ent-crono",
+"results": 15,
+"lap_riders": 26,
+"warnings": [
+"27 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/sbk-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-sbk-ent-crono",
+"results": 13,
+"lap_riders": 13,
+"warnings": [
+"15 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/supersport-ng-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-supersport-ng-ent-crono",
+"results": 30,
+"lap_riders": 30,
+"warnings": [
+"36 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/yamaha-r7-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-yamaha-r7-cup-ent-crono",
+"results": 13,
+"lap_riders": 27,
+"warnings": [
+"32 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/moto4-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-moto4-carrera-1",
+"results": 15,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/07/esbk-talent-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-esbk-talent-carrera-1",
+"results": 28,
+"lap_riders": 30,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/07/ss300-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-ss300-carrera-1",
+"results": 19,
+"lap_riders": 26,
+"warnings": [
+"2 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/sbk-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-sbk-carrera-1",
+"results": 8,
+"lap_riders": 13,
+"warnings": [
+"1 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/supersport-ng-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-supersport-ng-carrera-1",
+"results": 20,
+"lap_riders": 28,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/07/yamaha-r7-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-yamaha-r7-cup-carrera-1",
+"results": 23,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/07/moto4-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-moto4-carrera-2",
+"results": 17,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/07/esbk-talent-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-esbk-talent-carrera-2",
+"results": 25,
+"lap_riders": 30,
+"warnings": [
+"3 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/07/ss300-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-ss300-carrera-2",
+"results": 21,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/07/sbk-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-sbk-carrera-2",
+"results": 9,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/07/supersport-ng-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-supersport-ng-carrera-2",
+"results": 25,
+"lap_riders": 27,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/07/yamaha-r7-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2025-04-circuito-de-navarra-yamaha-r7-cup-carrera-2",
+"results": 23,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/MOTO-4_Libres-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-moto4-ent-libre-3",
+"results": 20,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/ESBK-TALENT_Libres-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-esbk-talent-ent-libre-3",
+"results": 33,
+"lap_riders": 28,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SS300_Libres-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-ss300-ent-libre-3",
+"results": 26,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SBK_Libres-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-sbk-ent-libre-3",
+"results": 17,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SUPERSPORT-NG_Libres-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-supersport-ng-ent-libre-3",
+"results": 29,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/YAMAHA-R7_Libres-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-yamaha-r7-cup-ent-libre-3",
+"results": 26,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/MOTO-4_Libres-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-moto4-ent-libre-4",
+"results": 20,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/ESBK-TALENT_Libres-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-esbk-talent-ent-libre-4",
+"results": 33,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SS300_Libres-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-ss300-ent-libre-4",
+"results": 26,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SBK_Libres-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-sbk-ent-libre-4",
+"results": 17,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SUPERSPORT-NG_Libres-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-supersport-ng-ent-libre-4",
+"results": 28,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/YAMAHA-R7_Libres-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-yamaha-r7-cup-ent-libre-4",
+"results": 28,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/MOTO-4_Entrenamiento-Cronometrado_-REVISADA-BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-moto4-ent-crono-revisada",
+"results": 18,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/ESBK-TALENT_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-esbk-talent-ent-crono",
+"results": 33,
+"lap_riders": 27,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SS300_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-ss300-ent-crono",
+"results": 27,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SBK_Entrenamiento-Cronometrado_BOOKLET-1.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-sbk-ent-crono",
+"results": 6,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SUPERSPORT-NG_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-supersport-ng-ent-crono",
+"results": 29,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/YAMAHA-R7_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-yamaha-r7-cup-ent-crono",
+"results": 27,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/MOTO-4_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-moto4-carrera-1",
+"results": 17,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/ESBK-TALENT_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-esbk-talent-carrera-1",
+"results": 31,
+"lap_riders": 31,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SS300_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-ss300-carrera-1",
+"results": 26,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SBK_Carrera-1_BOOKLET-1.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-sbk-carrera-1-revisada",
+"results": 16,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SUPERSPORT-NG_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-supersport-ng-carrera-1",
+"results": 24,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/YAMAHA-R7_Carrera-1_BOOKLET-REVISADA.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-yamaha-r7-cup-carrera-1-revisada",
+"results": 26,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/MOTO-4_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-moto4-carrera-2",
+"results": 18,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SS300_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-ss300-carrera-2",
+"results": 25,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SBK_Carrera-2_BOOKLET-1.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-sbk-carrera-2",
+"results": 16,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SUPERSPORT-NG_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-supersport-ng-carrera-2",
+"results": 23,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/YAMAHA-R7_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-03-motorland-aragon-yamaha-r7-cup-carrera-2",
+"results": 27,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/Moto4-EL1.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-moto4-ent-libre-3",
+"results": 16,
+"lap_riders": 6,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/ESBK-Talent-EL1.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-esbk-talent-ent-libre-3",
+"results": 37,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SS300-EL1.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-ss300-ent-libre-3",
+"results": 24,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/ESBK-EL1.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-sbk-ent-libre-3",
+"results": 6,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SSNG-EL1.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-supersport-ng-ent-libre-3",
+"results": 30,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/Yamaha-R7_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-yamaha-r7-cup-ent-libre-3",
+"results": 29,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/Moto-4_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-moto4-ent-libre-4",
+"results": 17,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/ESBK-Talent_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-esbk-talent-ent-libre-4",
+"results": 36,
+"lap_riders": 34,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SS-300_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-ss300-ent-libre-4",
+"results": 25,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SBK_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-sbk-ent-libre-4",
+"results": 6,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/Supersport-NG_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-supersport-ng-ent-libre-4",
+"results": 29,
+"lap_riders": 29,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/Yamaha-R7_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-yamaha-r7-cup-ent-libre-4",
+"results": 30,
+"lap_riders": 28,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/Moto-4_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-moto4-ent-crono",
+"results": 15,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/ESBK-Talent_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-esbk-talent-ent-crono",
+"results": 35,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SS-300_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-ss300-ent-crono",
+"results": 24,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SBK_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-sbk-ent-crono",
+"results": 6,
+"lap_riders": 9,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/Supersport-NG_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-supersport-ng-ent-crono",
+"results": 15,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/Yamaha-R7_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-yamaha-r7-cup-ent-crono",
+"results": 31,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/Moto-4_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-moto4-carrera-1",
+"results": 16,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/ESBK-Talent_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-esbk-talent-carrera-1",
+"results": 33,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SS-300_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-ss300-carrera-1",
+"results": 24,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SBK_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-sbk-carrera-1",
+"results": 17,
+"lap_riders": 2,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/Supersport-NG_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-supersport-ng-carrera-1",
+"results": 26,
+"lap_riders": 2,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/Yamaha-R7_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-yamaha-r7-cup-carrera-1",
+"results": 31,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/Moto-4_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-moto4-carrera-2",
+"results": 16,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/ESBK-Talent_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-esbk-talent-carrera-2",
+"results": 31,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SS-300_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-ss300-carrera-2",
+"results": 24,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/SBK_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-sbk-carrera-2",
+"results": 17,
+"lap_riders": 1,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/Supersport-NG_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-supersport-ng-carrera-2",
+"results": 26,
+"lap_riders": 1,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/06/Yamaha-R7_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2025-02-circuit-de-barcelona-catalunya-yamaha-r7-cup-carrera-2",
+"results": 31,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/TALENT_FP3.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-esbk-talent-ent-libre-3",
+"results": 9,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/SS300_FP3.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-ss300-ent-libre-3",
+"results": 4,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/SBK_FP3.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-sbk-ent-libre-3",
+"results": 7,
+"lap_riders": 10,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/SSP_FP3.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-3",
+"results": 36,
+"lap_riders": 36,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/R7_FP3.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-yamaha-r7-cup-ent-libre-3",
+"results": 22,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/m4qp-Revisada.pdf": {
+"status": "empty",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-moto4-ent-crono-revisada",
+"results": 0,
+"lap_riders": 21,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2025/04/TALENT_QF.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-esbk-talent-ent-crono",
+"results": 9,
+"lap_riders": 33,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/SS300_QF.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-ss300-ent-crono",
+"results": 15,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/sbkqp-003.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-sbk-ent-crono",
+"results": 19,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/sspqp.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-supersport-ng-ent-crono",
+"results": 30,
+"lap_riders": 36,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/yamqp.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-yamaha-r7-cup-ent-crono",
+"results": 14,
+"lap_riders": 30,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/m4ca1.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-moto4-carrera-1",
+"results": 20,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/talca1.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-esbk-talent-carrera-1",
+"results": 33,
+"lap_riders": 33,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/300ca1-002.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-ss300-carrera-1",
+"results": 22,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/sbkca1.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-sbk-carrera-1",
+"results": 20,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/sspca1.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-supersport-ng-carrera-1",
+"results": 33,
+"lap_riders": 34,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/yamca1.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-yamaha-r7-cup-carrera-1",
+"results": 30,
+"lap_riders": 30,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/MOTO4_RACE2.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-moto4-carrera-2",
+"results": 21,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/TALENT_RACE2.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-esbk-talent-carrera-2",
+"results": 32,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/SS300_RACE2rev.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-ss300-carrera-2-revisada",
+"results": 14,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/SBK_RACE2.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-sbk-carrera-2",
+"results": 17,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/SSP_RACE2.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-supersport-ng-carrera-2",
+"results": 28,
+"lap_riders": 31,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2025/04/R7_RACE2.pdf": {
+"status": "ok",
+"session_id": "2025-01-circuito-de-jerez-angel-nieto-yamaha-r7-cup-carrera-2",
+"results": 30,
+"lap_riders": 30,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/m4li1.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-moto4-ent-libre-1",
+"results": 6,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/pm3li1.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-premoto3-ent-libre-1",
+"results": 4,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/300libre1.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-ss300-ent-libre-1",
+"results": 21,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/sbkli1.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-sbk-ent-libre-1",
+"results": 10,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/sngli1.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-1",
+"results": 21,
+"lap_riders": 36,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/Beon-Libre-1.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-beon-junior-cup-ent-libre-1",
+"results": 2,
+"lap_riders": 9,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/m4li2.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-moto4-ent-libre-2",
+"results": 6,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/pm3li2.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-premoto3-ent-libre-2",
+"results": 4,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/300li2.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-ss300-ent-libre-2",
+"results": 21,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/sbkli2.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-sbk-ent-libre-2",
+"results": 12,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/sngli2.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-2",
+"results": 24,
+"lap_riders": 37,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/beon-libre-2.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-beon-junior-cup-ent-libre-2",
+"results": 2,
+"lap_riders": 8,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/m4ent-sin-parrilla.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-moto4-ent-crono",
+"results": 6,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/pm3ent-sin-parrilla.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-premoto3-ent-crono",
+"results": 4,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/300ent-sin-parrilla.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-ss300-ent-crono",
+"results": 22,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/sbkent-sin-parrilla.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-sbk-ent-crono",
+"results": 10,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/sngent-sin-parrilla.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-supersport-ng-ent-crono",
+"results": 24,
+"lap_riders": 37,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/Beon-Entrenamiento-sin-parrilla.pdf": {
+"status": "ok",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-beon-junior-cup-ent-crono",
+"results": 2,
+"lap_riders": 8,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/11/m4ca1.pdf": {
+"status": "empty",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-moto4-carrera-1",
+"results": 0,
+"lap_riders": 20,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/11/pm3ca1-REVISADA.pdf": {
+"status": "empty",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-premoto3-carrera-1-revisada",
+"results": 0,
+"lap_riders": 21,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/11/300ca1-sin-parrilla.pdf": {
+"status": "empty",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-ss300-carrera-1",
+"results": 0,
+"lap_riders": 32,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/11/sbkca1.pdf": {
+"status": "empty",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-sbk-carrera-1",
+"results": 0,
+"lap_riders": 19,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/11/sngca1.pdf": {
+"status": "empty",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-supersport-ng-carrera-1",
+"results": 0,
+"lap_riders": 35,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/11/boca1.pdf": {
+"status": "empty",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-beon-junior-cup-carrera-1",
+"results": 0,
+"lap_riders": 7,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/11/m4ca2.pdf": {
+"status": "empty",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-moto4-carrera-2",
+"results": 0,
+"lap_riders": 20,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/11/pm3ca2-REVISADA.pdf": {
+"status": "empty",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-premoto3-carrera-2-revisada",
+"results": 0,
+"lap_riders": 21,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/11/300ca2.pdf": {
+"status": "empty",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-ss300-carrera-2",
+"results": 0,
+"lap_riders": 32,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/11/sbkca2.pdf": {
+"status": "empty",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-sbk-carrera-2",
+"results": 0,
+"lap_riders": 19,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/11/sngca2.pdf": {
+"status": "empty",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-supersport-ng-carrera-2",
+"results": 0,
+"lap_riders": 36,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/11/boca2.pdf": {
+"status": "empty",
+"session_id": "2024-07-circuito-de-jerez-angel-nieto-beon-junior-cup-carrera-2",
+"results": 0,
+"lap_riders": 7,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Moto4-Classification.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-moto4-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/PreMoto3-Classification.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-premoto3-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/SS300-Classification.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-ss300-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/SBK-Classification.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-sbk-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Supersport-NG-Classification.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-supersport-ng-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/BeOn-Junior-Cup-Classification.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-beon-junior-cup-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Libre-Moto4.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-moto4-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Libres-premoto3.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-premoto3-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Libres-SS300.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-ss300-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Libres-sbk.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-sbk-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Libre-SSP_NG.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-supersport-ng-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Libre-BeOn.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-beon-junior-cup-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Premoto3-Cronometrado.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-premoto3-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/SS300-Cronometrados.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-ss300-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/SBK-Cronometrados.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-sbk-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Supersport-NG-Cronometrados.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-supersport-ng-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/BeOn-Cronometrados.pdf": {
+"status": "error",
+"error": "download: 404 Client Error: Not Found for url: https://rfme.com/wp-content/uploads/2024/10/BeOn-Cronometrados.pdf"
+},
+"https://rfme.com/wp-content/uploads/2024/10/Moto-4-Carrera-1.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-moto4-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Premoto-3-Carrera-1-1.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-premoto3-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/SS300-Carrera-1.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-ss300-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/SBK-Carrera-1.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-sbk-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Supersport-NG-Carrera-1.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-supersport-ng-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/BeOn-Carrera-1.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-beon-junior-cup-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Moto-4-Carrera-2.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-moto4-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Premoto3-Carrera-2.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-premoto3-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/SS300-ClassificationREVISADA-CARRERA-2.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-ss300-carrera-2-revisada",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/SBK-Carrera-2.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-sbk-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/Supersport-NG-Carrera-2.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-supersport-ng-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/10/BeOn-Carrera-2.pdf": {
+"status": "empty",
+"session_id": "2024-06-circuito-de-navarra-beon-junior-cup-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/08/PREMOTO-3_ENTRENAMIENTOS-LIBRE-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-premoto3-ent-libre-1",
+"results": 24,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/SS300_ENTRENAMIENTOS-LIBRE-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-ss300-ent-libre-1",
+"results": 26,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/SBK_ENTRENAMIENTOS-LIBRES-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-sbk-ent-libre-1",
+"results": 19,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/SUPERSPORT-NG_ENTRENAMIENTOS-LIBRE-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-supersport-ng-ent-libre-1",
+"results": 27,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/BeOn-JUNIOR-CUP_ENTRENAMIENTOS-LIBRE-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-beon-junior-cup-ent-libre-1",
+"results": 11,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/MOTO-4_ENTRENAMIENTOS-LIBRE-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-moto4-ent-libre-2",
+"results": 17,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/PREMOTO-3_ENTRENAMIENTOS-LIBRE-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-premoto3-ent-libre-2",
+"results": 23,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/SS300_ENTRENAMIENTOS-LIBRE-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-ss300-ent-libre-1",
+"results": 26,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/SBK_ENTRENAMIENTOS-LIBRES-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-sbk-ent-libre-2",
+"results": 19,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/SUPERSPORT-NG_ENTRENAMIENTOS-REVISADO-LIBRE-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-supersport-ng-ent-libre-2-revisado",
+"results": 26,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/BeOn-JUNIOR-CUP_ENTRENAMIENTOS-LIBRE-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-beon-junior-cup-ent-libre-2",
+"results": 11,
+"lap_riders": 9,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/MOTO-4_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-moto4-ent-crono",
+"results": 17,
+"lap_riders": 6,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/PREMOTO-3_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-premoto3-ent-crono",
+"results": 22,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/SS300_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-ss300-ent-crono",
+"results": 24,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/SBK_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-sbk-ent-crono",
+"results": 9,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/SUPERSPORT-NG_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-supersport-ng-ent-crono",
+"results": 28,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/BeOn-JUNIOR-CUP_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-beon-junior-cup-ent-crono",
+"results": 11,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/MOTO-4_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-moto4-carrera-1-revisada",
+"results": 15,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/09/CARRERA-1_Premoto3.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-premoto3-carrera-1-revisada",
+"results": 16,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/SS300_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-ss300-carrera-1-revisada",
+"results": 24,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/SBK_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-sbk-carrera-1",
+"results": 18,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/03_Classification_CARRERA-1-1.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-supersport-ng-carrera-1revisada",
+"results": 22,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/08/BeOn-JUNIOR-CUP_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-beon-junior-cup-carrera-1revisada",
+"results": 11,
+"lap_riders": 9,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/09/MOTO-4_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-moto4-carrera-2",
+"results": 15,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/09/PREMOTO-3_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-premoto3-carrera-2",
+"results": 19,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/09/SS300_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-ss300-carrera-2",
+"results": 23,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/09/SBK_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-sbk-carrera-2",
+"results": 17,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/09/SUPERSPORT-NG_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-supersport-ng-carrera-2",
+"results": 20,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/09/BeOn-JUNIOR-CUP_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-05-circuito-do-estoril-beon-junior-cup-carrera-2",
+"results": 10,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Libres-1-Moto4.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-moto4-ent-libre-1",
+"results": 21,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Pre-Moto3_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-premoto3-ent-libre-1",
+"results": 22,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Libre-1-SS300.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-ss300-ent-libre-1",
+"results": 25,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SBK_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-sbk-ent-libre-1",
+"results": 11,
+"lap_riders": 8,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Supersport-NG_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-supersport-ng-ent-libre-1",
+"results": 34,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/BeOn-Junior-Cup_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-beon-junior-cup-ent-libre-1",
+"results": 11,
+"lap_riders": 5,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Moto-4_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-moto4-ent-libre-2",
+"results": 21,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Pre-Moto3_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-premoto3-ent-libre-2",
+"results": 22,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SS-300_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-ss300-ent-libre-2",
+"results": 26,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SBK_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-sbk-ent-libre-2",
+"results": 11,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Supersport-NG_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-supersport-ng-ent-libre-2",
+"results": 34,
+"lap_riders": 34,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/BeOn-Junior-Cup_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-beon-junior-cup-ent-libre-2",
+"results": 11,
+"lap_riders": 10,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Moto-4_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-moto4-ent-crono",
+"results": 21,
+"lap_riders": 4,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Pre-Moto3_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "empty",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-premoto3-ent-crono",
+"results": 0,
+"lap_riders": 14,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/07/SS-300_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-ss300-ent-crono",
+"results": 24,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SBK_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-sbk-ent-crono",
+"results": 10,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Supersport-NG_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-supersport-ng-ent-crono",
+"results": 22,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/BeOn-Junior-Cup_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-beon-junior-cup-ent-crono",
+"results": 11,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Moto-4_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-moto4-carrera-1",
+"results": 16,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Pre-Moto3_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-premoto3-carrera-1",
+"results": 16,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SS-300_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-ss300-carrera-1",
+"results": 26,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/03_Classification_Carrera-1REVISADA-v1.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-sbk-carrera-1-revisada",
+"results": 16,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/09/Supersport-NG_Carrera-1_BOOKLET_II.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-supersport-ng-carrera-1",
+"results": 28,
+"lap_riders": 5,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/BeOn-Junior-Cup_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-beon-junior-cup-carrera-1",
+"results": 11,
+"lap_riders": 5,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Moto-4_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-moto4-carrera-2",
+"results": 18,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Pre-Moto3_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-premoto3-carrera-2",
+"results": 17,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SS-300_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-ss300-carrera-2",
+"results": 25,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SBK_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-sbk-carrera-2",
+"results": 16,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/Supersport-NG_Carrera-2_BOOKLET-revisada.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-supersport-ng-carrera-2",
+"results": 27,
+"lap_riders": 3,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/BeOn-Junior-Cup_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-04-circuit-de-barcelona-catalunya-beon-junior-cup-carrera-2",
+"results": 11,
+"lap_riders": 5,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/MOTO-4_ENTRENAMIENTO-LIBRE-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-moto4-ent-libre-1",
+"results": 19,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/PREMOTO3_ENTRENAMIENTO-LIBRE-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-premoto3-ent-libre-1",
+"results": 25,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SS300_ENTRENAMIENTO-LIBRE-1_BOOKLET-002.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-ss300-ent-libre-1",
+"results": 25,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SBK_ENTRENAMIENTO-LIBRE-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-sbk-ent-libre-1",
+"results": 17,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SUPERSPORT-NG_ENTRENAMIENTO-LIBRE-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-supersport-ng-ent-libre-1",
+"results": 32,
+"lap_riders": 27,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/BeOn-JUNIOR-CUP_ENTRENAMIENTO-LIBRE-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-beon-junior-cup-ent-libre-1",
+"results": 9,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/MOTO-4_ENTRENAMIENTO-LIBRE-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-moto4-ent-libre-2",
+"results": 18,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/PREMOTO3_ENTRENAMIENTO-LIBRE-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-premoto3-ent-libre-2",
+"results": 25,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SS300_ENTRENAMIENTO-LIBRE-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-ss300-ent-libre-2",
+"results": 25,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SBK_ENTRENAMIENTO-LIBRE-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-sbk-ent-libre-2",
+"results": 17,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SUPERSPORT-NG_ENTRENAMIENTO-LIBRE-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-supersport-ng-ent-libre-2",
+"results": 32,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/BeOn-JUNIOR-CUP_ENTRENAMIENTO-LIBRE-2_1BOOKLET-002.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-beon-junior-cup-ent-libre-2",
+"results": 8,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/MOTO-4_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-moto4-ent-crono",
+"results": 18,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/PREMOTO3_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-premoto3-ent-crono",
+"results": 24,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SS300_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-ss300-ent-crono",
+"results": 23,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SBK_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-sbk-ent-crono",
+"results": 9,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SUPERSPORT-NG_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-supersport-ng-ent-crono",
+"results": 29,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/BeOn-JUNIOR-CUP_ENTRENAMIENTO-CRONOMETRADO_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-beon-junior-cup-ent-crono",
+"results": 8,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/MOTO-4_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-moto4-carrera-1",
+"results": 13,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/PREMOTO3_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-premoto3-carrera-1",
+"results": 20,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SS300_CARRERA-1-A_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-ss300-carrera-1",
+"results": 23,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SBK_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-sbk-carrera-1",
+"results": 15,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/03_Classification_CARRERA-1-002.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-supersport-ng-carrera-1-revisada",
+"results": 24,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/BeOn-JUNIOR-CUP_CARRERA-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-beon-junior-cup-carrera-1",
+"results": 7,
+"lap_riders": 6,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/MOTO-4_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-moto4-carrera-2",
+"results": 15,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/PREMOTO3_CARRERA-2-A_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-premoto3-carrera-2",
+"results": 20,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SS300_CARRERA-2-A_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-ss300-carrera-2",
+"results": 22,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SBK_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-sbk-carrera-2",
+"results": 13,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/SUPERSPORT-NG_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-supersport-ng-carrera-2",
+"results": 23,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/07/BeOn-JUNIOR-CUP_CARRERA-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2024-03-circuito-do-estoril-beon-junior-cup-carrera-2",
+"results": 6,
+"lap_riders": 6,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/05/Moto4_Libres-1_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-moto4-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/05/PreMoto3_Libres1_Booklet-1.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-premoto3-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/05/SS300_Libres-1_Booklet-1.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-ss300-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/05/SBK-Libres-1_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-sbk-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/05/SupersportNG_Libres1_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-supersport-ng-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/05/BeOnJuniorCup_Libres1_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-beon-junior-cup-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/05/Moto4_Libres2_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-moto4-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/05/PreMoto3_Libres2_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-premoto3-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/05/SS300_Libres2_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-ss300-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/05/SBK_Libres-2_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-sbk-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/05/SupersportNG_Libres-2_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-supersport-ng-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/05/BeOnJCup_Libres2_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-beon-junior-cup-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/Moto4_Cronometrado_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-moto4-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/PreMoto3_Cronometrado_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-premoto3-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/SS300_Cronometrado_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-ss300-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/SBK_Cronometrado_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-sbk-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/SupersportNG_Cronometrado_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-supersport-ng-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/BeOnJCup_Cronometrado_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-beon-junior-cup-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/Moto4_Carrera-1_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-moto4-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/PreMoto3_Carrera-1_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-premoto3-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/SS300_Carrera-1_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-ss300-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/SBK_Carrera1_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-sbk-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/SupersportNG_Carrera1_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-supersport-ng-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/BeOnJuniorCup-Carrera-1-Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-beon-junior-cup-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/Moto4_Carrera2_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-moto4-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/PreMoto3_Carrera2_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-premoto3-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/SS300-Carrera-2_Revisada.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-ss300-carrera-2-revisada",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/SBK_Carrera2_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-sbk-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/SupersportNG_Carrera2_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-supersport-ng-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/06/BeOnJuniorCup_Carrera2_Booklet.pdf": {
+"status": "empty",
+"session_id": "2024-02-circuit-ricardo-tormo-beon-junior-cup-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"unknown layout"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/m4li1.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-moto4-ent-libre-1",
+"results": 8,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/pm3li1.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-premoto3-ent-libre-1",
+"results": 4,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/300li1.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-ss300-ent-libre-1",
+"results": 19,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/sbkli1.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-sbk-ent-libre-1",
+"results": 15,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/sngli1.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-1",
+"results": 20,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/boli1.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-beon-junior-cup-ent-libre-1",
+"results": 0,
+"lap_riders": 7,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/m4li2.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-moto4-ent-libre-2",
+"results": 8,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/pm3li2.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-premoto3-ent-libre-2",
+"results": 4,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/300li2.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-ss300-ent-libre-2",
+"results": 19,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/sbkli2.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-sbk-ent-libre-2",
+"results": 15,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/sngli2.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-2",
+"results": 20,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/boli2.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-beon-junior-cup-ent-libre-2",
+"results": 0,
+"lap_riders": 7,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/m4ent_OF.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-moto4-ent-crono",
+"results": 8,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/pm3ent.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-premoto3-ent-crono",
+"results": 4,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/300ent.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-ss300-ent-crono",
+"results": 19,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/sbkent.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-sbk-ent-crono",
+"results": 15,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/sngent.pdf": {
+"status": "ok",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-supersport-ng-ent-crono",
+"results": 20,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/04/boent.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-beon-junior-cup-ent-crono",
+"results": 0,
+"lap_riders": 7,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/m4ca1.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-moto4-carrera-1",
+"results": 0,
+"lap_riders": 21,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/pm3ca1.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-premoto3-carrera-1",
+"results": 0,
+"lap_riders": 23,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/300ca1_ok.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-ss300-carrera-1",
+"results": 0,
+"lap_riders": 26,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/sbkca1.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-sbk-carrera-1",
+"results": 0,
+"lap_riders": 18,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/SS600NG_Carrera1_Revisada_ok.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-supersport-ng-carrera-1-revisada",
+"results": 0,
+"lap_riders": 29,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/boca1.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-beon-junior-cup-carrera-1",
+"results": 0,
+"lap_riders": 7,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/Moto4_Carrera2.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-moto4-carrera-2",
+"results": 0,
+"lap_riders": 21,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/PreMoto3_Carrera2_results.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-premoto3-carrera-2",
+"results": 0,
+"lap_riders": 23,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/SS300_Carrera2_Revisada.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-ss300-carrera-2-revisada",
+"results": 0,
+"lap_riders": 25,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/SBK_Race2.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-sbk-carrera-2",
+"results": 0,
+"lap_riders": 23,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/SS600NG_Carrera2_Revisada.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-supersport-ng-carrera-2-revisada",
+"results": 0,
+"lap_riders": 30,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/04/boca2.pdf": {
+"status": "empty",
+"session_id": "2024-01-circuito-de-jerez-angel-nieto-beon-junior-cup-carrera-2",
+"results": 0,
+"lap_riders": 7,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2024/03/m4en1.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-moto4-entrenamiento-libre-1",
+"results": 7,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/pm3en1.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-premoto3-beon-junior-cup-entrenamiento-libre-1",
+"results": 22,
+"lap_riders": 27,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/ss300-1.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-ss300-entrenamiento-libre-1",
+"results": 2,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/sbken1.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-sbk-supersport-ng-entrenamiento-libre-1",
+"results": 29,
+"lap_riders": 34,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/m4en2.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-moto4-entrenamiento-libre-2",
+"results": 7,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/pm3en2.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-premoto3-beon-junior-cup-entrenamiento-libre-2",
+"results": 21,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/ss300-2.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-ss300-entrenamiento-libre-2",
+"results": 2,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/sbken2.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-sbk-supersport-ng-entrenamiento-libre-2",
+"results": 30,
+"lap_riders": 34,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/m4en3.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-moto4-entrenamiento-libre-3",
+"results": 7,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/pm3en3.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-premoto3-beon-junior-cup-entrenamiento-libre-3",
+"results": 22,
+"lap_riders": 27,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/ss300.3pdf.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-ss300-entrenamiento-libre-3",
+"results": 2,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/sbken3.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-sbk-supersport-ng-entrenamiento-libre-3",
+"results": 30,
+"lap_riders": 34,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/m4en4.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-moto4-entrenamiento-libre-4",
+"results": 7,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/pm3en4.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-premoto3-beon-junior-cup-entrenamiento-libre-4",
+"results": 20,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/ss300.4.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-ss300-entrenamiento-libre-4",
+"results": 1,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2024/03/sbken4.pdf": {
+"status": "ok",
+"session_id": "2024-00-test-oficial-de-pre-temporada-sbk-supersport-ng-entrenamiento-libre-4",
+"results": 26,
+"lap_riders": 29,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Moto-4_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-moto4-ent-libre-1",
+"results": 5,
+"lap_riders": 2,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Pre-Moto3_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-premoto3-ent-libre-1",
+"results": 5,
+"lap_riders": 3,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/SS-300_Cam_Iberoamericano_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-ss300-ent-libre-1",
+"results": 27,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/SBK_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-sbk-ent-libre-1",
+"results": 3,
+"lap_riders": 2,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Supersport-NG_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-supersport-ng-ent-libre-1",
+"results": 2,
+"lap_riders": 2,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Moto-4_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-moto4-ent-libre-2",
+"results": 27,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Pre-Moto3_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-premoto3-ent-libre-2",
+"results": 33,
+"lap_riders": 33,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/SS-300_Cam_Iberoamericano_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-ss300-ent-libre-2",
+"results": 37,
+"lap_riders": 37,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/SBK_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-sbk-ent-libre-2",
+"results": 8,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Supersport-NG_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-supersport-ng-ent-libre-2",
+"results": 38,
+"lap_riders": 38,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Moto-4_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-moto4-ent-cronometrado",
+"results": 26,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Pre-Moto3_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "empty",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-premoto3-ent-cronometrado",
+"results": 0,
+"lap_riders": 18,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/11/SS-300_Cam_Iberoamericano_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-ss300-ent-cronometrado",
+"results": 36,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/SBK_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-sbk-ent-cronometrado",
+"results": 9,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Supersport-NG_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-supersport-ng-ent-cronometrado",
+"results": 37,
+"lap_riders": 28,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Moto-4_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-moto4-carrera1",
+"results": 23,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Pre-Moto3_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-premoto3-carrera1",
+"results": 28,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/SS-300_Cam_Iberoamericano_Carrera-1_BOOKLET-002.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-ss300-carrera1",
+"results": 34,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/SBK_Carrera-1_BOOKLET-002.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-sbk-carrera1",
+"results": 22,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Supersport-NG_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-supersport-ng-carrera1",
+"results": 32,
+"lap_riders": 3,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Moto-4_Warm-up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-moto4-warm-up",
+"results": 25,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Pre-Moto3_Warm-up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-premoto3-warm-up",
+"results": 30,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/SS-300_Cam_Iberoamericano_Warm-up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-ss300-warm-up",
+"results": 34,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/SBK_Warm-up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-sbk-warm-up",
+"results": 7,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Supersport-NG_Warm-up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-supersport-ng-warm-up",
+"results": 35,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Moto-4_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-moto4-carrera-2",
+"results": 19,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Pre-Moto3_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-premoto3-carrera-2",
+"results": 28,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/SS-300_Cam_Iberoamericano_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-ss300-carrera-2",
+"results": 32,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/SBK_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-sbk-carrera-2",
+"results": 21,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/11/Supersport-NG_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-07-circuit-de-barcelona-catalunya-supersport-ng-carrera-2",
+"results": 35,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/10/m4li1.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-moto4-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/pm3li1.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-premoto3-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/300li1.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-ss300-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/sbkli1.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-sbk-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/sslia1.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-1-a",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/sslib1.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-1-b",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/m4li2.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-moto4-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/pm3li2.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-premoto3-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/300li2.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-ss300-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/sbkli2.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-sbk-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/sslia2.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-2-a",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/sslib2.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-2-b",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/m4entcron.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-moto4-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/pm3ent.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-premoto3-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/300ent.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-ss300-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/sbkent.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-sbk-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/ssenta.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-supersport-ng-ent-cronometrado-a",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/ssentb.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-supersport-ng-ent-cronometrado-b",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/m4ca1REV.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-moto4-carrera-1-revisada",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/pm3ca1.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-premoto3-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/300ca1REV.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-ss300-carrera-1-revisada",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/sbkca1.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-sbk-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/ssca1.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-supersport-ng-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/300wu.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-ss300-warm-up",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/sbkwu.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-sbk-warm-up",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/sswu.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-supersport-ng-warm-up",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/m4ca2.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-moto4-carrera-2-revisada",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/pm3ca2.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-premoto3-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/300ca2.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-ss300-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/10/sbkca2.pdf": {
+"status": "empty",
+"session_id": "2023-06-circuito-de-jerez-angel-nieto-sbk-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/09/MOTO-4_ENT_LIBRES-1_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-moto4-ent-libre-1",
+"results": 22,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/PREMOTO3_ENT_LIBRES-1_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-premoto3-ent-libre-1",
+"results": 26,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SSP600_ENT_LIBRES-1_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-supersport-ng-ent-libre-1",
+"results": 27,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/MOTO-4_ENT_LIBRES-2_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-moto4-ent-libre-2",
+"results": 26,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/PREMOTO3_ENT_LIBRES-2_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-premoto3-ent-libre-2",
+"results": 31,
+"lap_riders": 27,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SSP300_ENT_LIBRES-2_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-ss300-ent-libre-2",
+"results": 22,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SBK_ENT_LIBRES-2_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-sbk-ent-libre-2",
+"results": 21,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SSP600_ENT_LIBRES-2_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-supersport-ng-ent-libre-2",
+"results": 27,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/HANDY_ENT_LIBRES-2_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-handy-esbk-ent-libre-2",
+"results": 6,
+"lap_riders": 4,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/PREMOTO3_CRONO_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-premoto3-ent-cronometrado",
+"results": 30,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SSP300_CRONO_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-ss300-ent-crono",
+"results": 23,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SBK_CRONO_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-sbk-ent-cronometrado",
+"results": 10,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SSP600_CRONO_REV.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-supersport-ng-ent-cronome",
+"results": 27,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/HANDY_CRONO_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-handy-esbk-ent-cronomet",
+"results": 6,
+"lap_riders": 5,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/PREMOTO3_CARRERA1_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-premoto3-carrera-1",
+"results": 29,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SSP300_CARERRA1_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-ss300-carrera-1",
+"results": 22,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SBK_CARRERA1_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-sbk-carrera-1",
+"results": 20,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SSP600_CARERRA1__.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-supersport-ng-carrera-1",
+"results": 21,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/HANDY_CARRERA1_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-handy-esbk-carrera-1",
+"results": 6,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/MOTO-4_WARMUP__.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-moto4-warm-up",
+"results": 25,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/PREMOTO3_WARMUP_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-premoto3-warm-up",
+"results": 29,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SSP300_WARMUP_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-ss300-warm-up",
+"results": 22,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SBK_WARM-UP_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-sbk-warm-up",
+"results": 20,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SSP600_WARMUP_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-supersport-ng-warm-up",
+"results": 26,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/HANDY_WARMUP_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-handy-esbk-warm-up",
+"results": 6,
+"lap_riders": 5,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/MOTO-4_CARRERA2_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-moto4-carrera-2",
+"results": 23,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/PREMOTO3_CARRERA2_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-premoto3-carrera-2",
+"results": 27,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SSP300_CARERRA2_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-ss300-carrera-2",
+"results": 22,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SBK_CARRERA2_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-sbk-carrera-2",
+"results": 16,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/SSP600_CARERRA2__.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-supersport-ng-carrera-2",
+"results": 15,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/09/HANDY_CARRERA2_.pdf": {
+"status": "ok",
+"session_id": "2023-05-circuito-de-navarra-handy-esbk-carrera-2",
+"results": 6,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/Moto4_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-moto4-ent-libre-1",
+"results": 17,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/PreMoto3_Entrenamiento-Libre-1_BOOKLET-1.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-premoto3-ent-libre-1",
+"results": 19,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/SS300_Entrenamiento-Libre-1-_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-ss300-ent-libre-1",
+"results": 16,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/SBK_Entrenamiento-Libre-1-_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-sbk-ent-libre-1",
+"results": 12,
+"lap_riders": 10,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/Supersport-NG_Entrenamiento-Libre-1-_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-supersport-ng-ent-libre-1",
+"results": 33,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/YAMAHA-R7_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-yamaha-r7-ent-libre-1",
+"results": 9,
+"lap_riders": 8,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/Moto4_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-moto4-ent-libre-2",
+"results": 27,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/PreMoto3_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-premoto3-ent-libre-2",
+"results": 27,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/SS300_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-ss300-ent-libre-2",
+"results": 28,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/SBK_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-sbk-ent-libre-2",
+"results": 21,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/Supersport-NG_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-supersport-ng-ent-libre-2",
+"results": 34,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/YAMAHA-R7_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-yamaha-r7-ent-libre-2",
+"results": 16,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/Moto4_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-moto4-ent-cronometrado",
+"results": 28,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/1PreMoto3_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-premoto3-ent-cronometrado",
+"results": 27,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/SS300_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-ss300-ent-cronometrado",
+"results": 28,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/SBK_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-sbk-ent-cronometrado",
+"results": 8,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/Supersport-NG_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-supersport-ng-ent-cronometrado",
+"results": 34,
+"lap_riders": 28,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/1YAMAHA-R7_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-yamaha-r7-ent-cronometrado",
+"results": 16,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/Moto4_Carrera-1-_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-moto4-carrera-1",
+"results": 25,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/PreMoto3_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-premoto3-carrera-1-revisada",
+"results": 26,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/SS300_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-ss300-carrera-1",
+"results": 25,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/SBK_Carrera-1-_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-sbk-carrera-1",
+"results": 18,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/Supersport-NG_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-supersport-ng-carrera-1",
+"results": 33,
+"lap_riders": 27,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/YAMAHA-R7_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-yamaha-r7-carrera-1",
+"results": 15,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/Moto4_Warm-Up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-moto4-warm-up",
+"results": 6,
+"lap_riders": 5,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/PreMoto3_Warm-Up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-premoto3-warm-up",
+"results": 11,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/SS300_Warm-Up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-ss300-warm-up",
+"results": 8,
+"lap_riders": 8,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/SBK_Warm-Up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-sbk-warm-up",
+"results": 4,
+"lap_riders": 3,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/Supersport-NG_Warm-Up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-supersport-ng-warm-up",
+"results": 11,
+"lap_riders": 10,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/YAMAHA-R7_Warm-Up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-yamaha-r7-warm-up",
+"results": 4,
+"lap_riders": 3,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/Moto4_Carrera-2_BOOKLET-002.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-moto4-carrera-2",
+"results": 25,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/PreMoto3_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-premoto3-carrera-2",
+"results": 25,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/SS300_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-ss300-carrera-2",
+"results": 27,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/SBK_Carrera-2_BOOKLET-REVISADA.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-sbk-carrera-2-revisada",
+"results": 20,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/Supersport-NG_Carrera-2_BOOKLET-002-REVISADA.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-supersport-ng-carrera-2-revisada",
+"results": 29,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/YAMAHA-R7_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-04-circuito-do-estoril-yamaha-r7-carrera-2",
+"results": 14,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/05/1-EN-LI-M4.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-moto4-ent-libre-1",
+"results": 0,
+"lap_riders": 24,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/1-EN-LI-PM3.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-premoto3-ent-libre-1",
+"results": 0,
+"lap_riders": 22,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/1-EN-LI-SS300.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-ss300-ent-libre-1",
+"results": 0,
+"lap_riders": 23,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/1-EN-LI-SBK.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-sbk-ent-libre-1",
+"results": 0,
+"lap_riders": 19,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/1-EN-LI-SSP-NG.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-supersport-ng-ent-libre-1",
+"results": 0,
+"lap_riders": 33,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/ENT.-LIB.-1-WC.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-womens-cham-ent-libre-1",
+"results": 0,
+"lap_riders": 13,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/2-EN-LI-M4.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-moto4-ent-libre-2",
+"results": 0,
+"lap_riders": 29,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/2-EN-LI-PM3.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-premoto3-ent-libre-2",
+"results": 0,
+"lap_riders": 32,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/2-ENT.-LIB.-SS3OO.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-ss300-ent-libre-2",
+"results": 0,
+"lap_riders": 17,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/2-EN-LI-SBK.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-sbk-ent-libre-2",
+"results": 0,
+"lap_riders": 19,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/2-ENT.-LIB.-SS_GN.1.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-supersport-ng-ent-libre-2",
+"results": 0,
+"lap_riders": 29,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/2-ENT.-LIB.-W.C.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-womens-cham-ent-libre-2",
+"results": 0,
+"lap_riders": 13,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/ENT.-CRONO.-M4-Revisado.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-moto4-ent-cronometrado-revisada",
+"results": 0,
+"lap_riders": 28,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/ENT.-CRONO.-PREMOTO3.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-premoto3-ent-cronometrado",
+"results": 0,
+"lap_riders": 32,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/ENT.-CRONO-SS300.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-ss300-ent-cronometrado",
+"results": 0,
+"lap_riders": 23,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/ENT.-CRONO-SBK.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-sbk-ent-cronometrado",
+"results": 0,
+"lap_riders": 21,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/ENT.-CR-SS_NG.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-supersport-ng-ent-cronometrado",
+"results": 0,
+"lap_riders": 33,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/ENT.-CR-W.C.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-womens-cham-ent-cronometrado",
+"results": 0,
+"lap_riders": 13,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/Carrera-1-Moto4.pdf": {
+"status": "ok",
+"session_id": "2023-03-circuit-ricardo-tormo-moto4-carrera-1",
+"results": 24,
+"lap_riders": 28,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/05/CAR.-1-PREMOTO3.pdf": {
+"status": "ok",
+"session_id": "2023-03-circuit-ricardo-tormo-premoto3-carrera-1",
+"results": 30,
+"lap_riders": 30,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/CAR.-1-SS300.pdf": {
+"status": "ok",
+"session_id": "2023-03-circuit-ricardo-tormo-ss300-carrera-1",
+"results": 22,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/05/CAR.-1-SBK.pdf": {
+"status": "ok",
+"session_id": "2023-03-circuit-ricardo-tormo-sbk-carrera-1",
+"results": 21,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/05/CAR.-1-SS_NG.pdf": {
+"status": "ok",
+"session_id": "2023-03-circuit-ricardo-tormo-supersport-ng-carrera-1",
+"results": 30,
+"lap_riders": 30,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/05/CAR.-1-W.Ch_.REVI_.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-womens-cham-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/WUP-M4.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-moto4-warm-up",
+"results": 0,
+"lap_riders": 27,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/WUP-PREM3.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-premoto3-warm-up",
+"results": 0,
+"lap_riders": 30,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/WUP-SS300.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-ss300-warm-up",
+"results": 0,
+"lap_riders": 23,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/WUP-SBK.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-sbk-warm-up",
+"results": 0,
+"lap_riders": 19,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/W-U-SS.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-supersport-ng-warm-up",
+"results": 0,
+"lap_riders": 33,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/WUP-WCh.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-womens-cham-warm-up",
+"results": 0,
+"lap_riders": 12,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/Carrera-2-Moto4.pdf": {
+"status": "ok",
+"session_id": "2023-03-circuit-ricardo-tormo-moto4-carrera-2",
+"results": 25,
+"lap_riders": 28,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/05/CAR.-2-PREMOTO3.pdf": {
+"status": "ok",
+"session_id": "2023-03-circuit-ricardo-tormo-premoto3-carrera-2",
+"results": 28,
+"lap_riders": 28,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/06/CAR.-2-SS300-REV.pdf": {
+"status": "empty",
+"session_id": "2023-03-circuit-ricardo-tormo-ss300-carrera-2-revisada",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/05/CAR.-2-SBK.pdf": {
+"status": "ok",
+"session_id": "2023-03-circuit-ricardo-tormo-sbk-carrera-2",
+"results": 18,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/05/CAR.-2-SS_NG.pdf": {
+"status": "ok",
+"session_id": "2023-03-circuit-ricardo-tormo-supersport-ng-carrera-2",
+"results": 32,
+"lap_riders": 34,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/05/CAR.-2-W.Ch_.pdf": {
+"status": "ok",
+"session_id": "2023-03-circuit-ricardo-tormo-womens-cham-carrera-2",
+"results": 11,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Moto4_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-moto4-ent-libre-1",
+"results": 29,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/PreMoto3_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-premoto3-ent-libre-1",
+"results": 29,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/SS300_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-ss300-ent-libre-1",
+"results": 25,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/SBK_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-sbk-ent-libre-1",
+"results": 24,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Supersport-NG_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-supersport-ng-ent-libre-1",
+"results": 32,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Yamaha-R7_Entrenamiento-Libre-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-yamaha-r7-ent-libre-1",
+"results": 13,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Moto4_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-moto4-ent-libre-2",
+"results": 29,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/PreMoto3_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-premoto3-ent-libre-2",
+"results": 28,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/SS300_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-ss300-ent-libre-2",
+"results": 26,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/SBK_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-sbk-ent-libre-2",
+"results": 24,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Supersport-NG_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-supersport-ng-ent-libre-2",
+"results": 32,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Yamaha-R7_Entrenamiento-Libre-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-yamaha-r7-ent-libre-2",
+"results": 14,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Moto4_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-moto4-ent-cronometrado",
+"results": 29,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/PreMoto3_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-premoto3-ent-cronometrado",
+"results": 29,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/SS300_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-ss300-ent-cronometrado",
+"results": 25,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/SBK_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-sbk-ent-cronometrado",
+"results": 8,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Supersport-NG_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-supersport-ng-ent-cronometrado",
+"results": 32,
+"lap_riders": 27,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Yamaha-R7_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-yamaha-r7-ent-cronometrado",
+"results": 13,
+"lap_riders": 10,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Moto4_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-moto4-carrera-1",
+"results": 25,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/PreMoto3_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-premoto3-carrera-1",
+"results": 27,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/SS300_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-ss300-carrera-1",
+"results": 26,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/SBK_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-sbk-carrera-1",
+"results": 23,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Supersport-NG_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-supersport-ng-carrera-1",
+"results": 28,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Yamaha-R7_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-yamaha-r7-carrera-1",
+"results": 13,
+"lap_riders": 10,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Moto4_Warm-up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-moto4-warm-up",
+"results": 27,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/PreMoto3_Warm-up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-premoto3-warm-up",
+"results": 27,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/SS300_Warm-up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-ss300-warm-up",
+"results": 24,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/SBK_Warm-up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-sbk-warm-up",
+"results": 22,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Supersport-NG_Warm-up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-supersport-ng-warm-up",
+"results": 30,
+"lap_riders": 27,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Yamaha-R7_Warm-up_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-yamaha-r7-warm-up",
+"results": 13,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Moto4_Carrera-2_BOOKLET-REVISADA.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-moto4-carrera-2-revisada",
+"results": 24,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/PreMoto3_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-premoto3-carrera-2",
+"results": 25,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/SS300_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-ss300-carrera-2",
+"results": 26,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/SBK_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-sbk-carrera-2",
+"results": 23,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Supersport-NG_Carrera-2_BOOKLET-REVISADA.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-supersport-ng-carrera-2-revisada",
+"results": 30,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/04/Yamaha-R7_Carrera-2_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2023-02-motorland-aragon-yamaha-r7-carrera-2",
+"results": 13,
+"lap_riders": 10,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/m4l1-1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-moto4-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/03/pm3l1-1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-premoto3-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/03/300l1-1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-ss300-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/03/sbkl1-1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-sbk-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/03/sngl1-1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/03/hanl1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-handy-fim-eu-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/03/m4l2-1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-moto4-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/03/pm3l2-1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-premoto3-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/03/300l2-1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-ss300-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/03/sbkl2-1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-sbk-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/03/sngl2-1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/03/hanl2.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-handy-fim-eu-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/m4q.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-moto4-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/pm3q.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-premoto3-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/300q.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-ss300-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/sbkq.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-sbk-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/sngq.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-supersport-ng-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/hanq.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-handy-fim-eu-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/m4c1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-moto4-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/pm3c1-REVISADA.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-premoto3-carrera-1-revisada",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/300c1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-ss300-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/sbkc1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-sbk-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/sngc1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-supersport-ng-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/hanc1.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-handy-fim-eu-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/m4wu.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-moto4-warm-up",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/pm3wu.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-premoto3-warm-up",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/300wu.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-ss300-warm-up",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/sbkwu.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-sbk-warm-up",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/sngwu.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-supersport-ng-warm-up",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/hanwu.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-handy-fim-eu-warm-up",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/m4c2-REVISADA.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-moto4-carrera-2-revisada",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/pm3c2.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-premoto3-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/300c2.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-ss300-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/sbkc2.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-sbk-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/sngc2.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-supersport-ng-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/04/hanc2.pdf": {
+"status": "empty",
+"session_id": "2023-01-circuito-de-jerez-angel-nieto-handy-fim-eu-carrera-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2023/03/m4l1.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-moto4-entrenamiento-libre-1",
+"results": 4,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/pm3l1.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-premoto3-entrenamiento-libre-1",
+"results": 8,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/300l1.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-ss300-entrenamiento-libre-1",
+"results": 4,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/sbkl1.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-sbk-entrenamiento-libre-1",
+"results": 5,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/sngl1.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-supersport-ng-entrenamiento-libre-1",
+"results": 3,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/m4l2.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-moto4-entrenamiento-libre-2",
+"results": 4,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/pm3l2.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-premoto3-entrenamiento-libre-2",
+"results": 8,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/300l2.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-ss300-entrenamiento-libre-2",
+"results": 4,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/sbkl2.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-sbk-entrenamiento-libre-2",
+"results": 5,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/sngl2.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-supersport-ng-entrenamiento-libre-2",
+"results": 2,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/m4l3.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-moto4-entrenamiento-libre-3",
+"results": 4,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/pm3l3.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-premoto3-entrenamiento-libre-3",
+"results": 7,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/300l3.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-ss300-entrenamiento-libre-3",
+"results": 4,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/sbkl3.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-sbk-entrenamiento-libre-3",
+"results": 5,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/sngl3.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-supersport-ng-entrenamiento-libre-3",
+"results": 3,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/m4l4.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-moto4-entrenamiento-libre-4",
+"results": 4,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/pm3l4.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-premoto3-entrenamiento-libre-4",
+"results": 8,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/300l4.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-ss300-entrenamiento-libre-4",
+"results": 4,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/sbkl4.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-sbk-entrenamiento-libre-4",
+"results": 5,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2023/03/sngl4.pdf": {
+"status": "ok",
+"session_id": "2023-00-test-oficial-de-pre-temporada-supersport-ng-entrenamiento-libre-4",
+"results": 3,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2022/10/m4li1.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-moto4-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/FP1Premoto3.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-premoto3-promo3-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/FP1SBKJunior.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-sbk-junior-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/sbkli1-1.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-sbk-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/FP1-ss600.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/FP1Handy.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-handy-european-ent-libre-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/FP2Moto4.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-moto4-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/FP2-Premoto3.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-premoto3-promo3-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/FP2-SBKJunior.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-sbk-junior-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/FP2SBK.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-sbk-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/FP2-SS600.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-supersport-ng-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/FP2-Handy.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-handy-european-ent-libre-2",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/Crono.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-moto4-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/Crono-Premoto3.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-premoto3-promo3-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/Crono-SBKJunior.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-sbk-junior-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/cronoSBK.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-sbk-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/CronoSS600.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-supersport-ng-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/Crono-Handy.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-handy-european-ent-cronometrado",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2022/10/CARRERA1.pdf": {
+"status": "empty",
+"session_id": "2022-07-circuito-de-jerez-angel-nieto-moto4-carrera-1",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+}
+}
