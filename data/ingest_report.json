@@ -1,59 +1,1353 @@
 {
  "failures": [
   {
-   "url": "https://rfme.com/wp-content/uploads/2026/05/supersport-300-entrenamiento-libre-3-Clasificacion.pdf",
+   "url": "https://rfme.com/wp-content/uploads/2025/07/moto4-entrenamiento-libre-3-Clasificacion.pdf",
    "error": "no results",
    "warnings": [
-    "no classification parsed"
+    "unknown layout"
    ],
-   "layout": "navarra",
+   "layout": null,
    "meta": {
-    "year": 2026,
-    "class": "Supersport 300",
+    "year": 2025,
+    "class": "Moto4",
     "session": "Ent. Libre 3",
     "circuit": "Circuito de Navarra"
    }
   },
   {
-   "url": "https://rfme.com/wp-content/uploads/2026/05/supersport-300-entrenamiento-libre-4-Clasificacion.pdf",
-   "error": "no results",
-   "warnings": [
-    "no classification parsed"
-   ],
-   "layout": "navarra",
-   "meta": {
-    "year": 2026,
-    "class": "Supersport 300",
-    "session": "Ent. Libre 4",
-    "circuit": "Circuito de Navarra"
-   }
-  },
-  {
-   "url": "https://rfme.com/wp-content/uploads/2026/05/Supersport-300-Entrenamiento-Cronometrado-Clasificacion.pdf",
-   "error": "no results",
-   "warnings": [
-    "no classification parsed"
-   ],
-   "layout": "navarra",
-   "meta": {
-    "year": 2026,
-    "class": "Supersport 300",
-    "session": "Ent. Crono",
-    "circuit": "Circuito de Navarra"
-   }
-  },
-  {
-   "url": "https://rfme.com/wp-content/uploads/2026/03/spbses3.pdf",
+   "url": "https://rfme.com/wp-content/uploads/2025/04/m4qp-Revisada.pdf",
    "error": "no results",
    "warnings": [
     "no classification parsed"
    ],
    "layout": "cronojerez",
    "meta": {
-    "year": 2026,
-    "class": "Sportbike",
-    "session": "Ent. Libre 3",
+    "year": 2025,
+    "class": "Moto4",
+    "session": "Ent. Crono Revisada",
     "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/11/pm3ca1-REVISADA.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2024,
+    "class": "PreMoto3",
+    "session": "Carrera 1 REVISADA",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/11/pm3ca2-REVISADA.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2024,
+    "class": "PreMoto3",
+    "session": "Carrera 2 REVISADA",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/10/SS300-Classification.pdf",
+   "error": "no results",
+   "warnings": [
+    "unknown layout"
+   ],
+   "layout": null,
+   "meta": {
+    "year": 2024,
+    "class": "SS300",
+    "session": "Ent. Libre 1",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/10/SBK-Classification.pdf",
+   "error": "no results",
+   "warnings": [
+    "unknown layout"
+   ],
+   "layout": null,
+   "meta": {
+    "year": 2024,
+    "class": "SBK",
+    "session": "Ent. Libre 1",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/10/Supersport-NG-Classification.pdf",
+   "error": "no results",
+   "warnings": [
+    "unknown layout"
+   ],
+   "layout": null,
+   "meta": {
+    "year": 2024,
+    "class": "Supersport NG",
+    "session": "Ent. Libre 1",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/10/Libres-SS300.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2024,
+    "class": "SS300",
+    "session": "Ent. Libre 2",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/10/Libres-sbk.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2024,
+    "class": "SBK",
+    "session": "Ent. Libre 2",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/10/Libre-SSP_NG.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2024,
+    "class": "Supersport NG",
+    "session": "Ent. Libre 2",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/10/SS300-Cronometrados.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2024,
+    "class": "SS300",
+    "session": "Ent. Crono",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/10/SBK-Cronometrados.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2024,
+    "class": "SBK",
+    "session": "Ent. Crono",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/10/Supersport-NG-Cronometrados.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2024,
+    "class": "Supersport NG",
+    "session": "Ent. Crono",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/10/BeOn-Cronometrados.pdf",
+   "error": "download: 404 Client Error: Not Found for url: https://rfme.com/wp-content/uploads/2024/10/BeOn-Cronometrados.pdf",
+   "meta": {
+    "year": 2024,
+    "class": "BeOn Junior Cup",
+    "session": "Ent. Crono",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/10/SS300-ClassificationREVISADA-CARRERA-2.pdf",
+   "error": "no results",
+   "warnings": [
+    "unknown layout"
+   ],
+   "layout": null,
+   "meta": {
+    "year": 2024,
+    "class": "SS300",
+    "session": "Carrera 2 REVISADA",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/10/SBK-Carrera-2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2024,
+    "class": "SBK",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/07/Pre-Moto3_Entrenamiento-Cronometrado_BOOKLET.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2024,
+    "class": "PreMoto3",
+    "session": "Ent. Crono",
+    "circuit": "Circuit de Barcelona-Catalunya"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/05/BeOnJuniorCup_Libres1_Booklet.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2024,
+    "class": "BeOn Junior Cup",
+    "session": "Ent. Libre 1",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/04/SS600NG_Carrera1_Revisada_ok.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2024,
+    "class": "Supersport NG",
+    "session": "Carrera 1-Revisada",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2024/04/SS300_Carrera2_Revisada.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2024,
+    "class": "SS300",
+    "session": "Carrera 2-Revisada",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/11/Pre-Moto3_Entrenamiento-Cronometrado_BOOKLET.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2023,
+    "class": "PreMoto3",
+    "session": "Ent. Cronometrado",
+    "circuit": "Circuit de Barcelona-Catalunya"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/10/m4ca1REV.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "Moto4",
+    "session": "Carrera 1-REVISADA",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/10/pm3ca1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "PreMoto3",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/10/300ca1REV.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "SS300",
+    "session": "Carrera 1-REVISADA",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/10/sbkca1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "SBK",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/10/ssca1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "Supersport NG",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/10/m4ca2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "Moto4",
+    "session": "Carrera 2-REVISADA",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/10/pm3ca2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "PreMoto3",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/10/300ca2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "SS300",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/10/sbkca2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "SBK",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/05/2-ENT.-LIB.-SS_GN.1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "mastertiming",
+   "meta": {
+    "year": 2023,
+    "class": "Supersport NG",
+    "session": "Ent. Libre 2",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/05/CAR.-1-W.Ch_.REVI_.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2023,
+    "class": "Womens Cham.",
+    "session": "Carrera 1",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/06/CAR.-2-SS300-REV.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2023,
+    "class": "SS300",
+    "session": "Carrera 2 REVISADA",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/04/m4c1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "Moto4",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/04/pm3c1-REVISADA.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "PreMoto3",
+    "session": "Carrera 1 REVISADA",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/04/300c1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "SS300",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/04/sbkc1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "SBK",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/04/sngc1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "Supersport NG",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/04/hanc1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "Handy FIM Eu",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/04/m4c2-REVISADA.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "Moto4",
+    "session": "Carrera 2 REVISADA",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/04/pm3c2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "PreMoto3",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/04/300c2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "SS300",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/04/sbkc2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "SBK",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/04/sngc2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "Supersport NG",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2023/04/hanc2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2023,
+    "class": "Handy FIM Eu",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/10/CARRERA1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2022,
+    "class": "Moto4",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/10/carrera1-Premoto3.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2022,
+    "class": "PreMoto3/Promo3",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/10/carrera1-SBKJunior.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2022,
+    "class": "SBK Junior",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/10/carrera1-SBK.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2022,
+    "class": "SBK",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/10/carrera1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2022,
+    "class": "Supersport NG",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/10/Carrera-1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2022,
+    "class": "Handy European",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/10/Carrera2-Moto4.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2022,
+    "class": "Moto4",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/10/Carrera-2-Premoto3.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2022,
+    "class": "PreMoto3/Promo3",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/10/Carrera2-SBKJunior-REVISADA.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2022,
+    "class": "SBK Junior",
+    "session": "Carrera 2 REVISADA",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/10/Carrera-2-SBK.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2022,
+    "class": "SBK",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/10/Carrera-2-SSGN-REVISADA.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2022,
+    "class": "Supersport NG",
+    "session": "Carrera 2 REVISADA",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/10/Carrera2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2022,
+    "class": "Handy European",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/09/SBK-Femenino_ENT_-LIBRE-1_BOOKLET.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2022,
+    "class": "SBK Femenino",
+    "session": "Ent. Libre 1",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/09/SBK-Femenino_ENT_-LIBRE-2_BOOKLET-1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2022,
+    "class": "SBK Femenino",
+    "session": "Ent. Libre 2",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/09/SBK-Femenino_ENT_-CRONOMETRADO_BOOKLET.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2022,
+    "class": "SBK Femenino",
+    "session": "Ent.Cronometrado",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/09/SBK-Femenino_CARRERA-1_BOOKLET.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2022,
+    "class": "SBK Femenino",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/09/SBK-Femenino_WARM-UP_BOOKLET.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2022,
+    "class": "SBK Femenino",
+    "session": "Warm-Up",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/09/SBK-Femenino_CARRERA-2_BOOKLET.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2022,
+    "class": "SBK Femenino",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/06/Pre-Moto3_Promo3_Carrera-1_BOOKLET.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2022,
+    "class": "PreMoto3/Promo3",
+    "session": "Carrera 1",
+    "circuit": "Circuit de Barcelona-Catalunya"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/05/PREMOTO3-EntrL-2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2022,
+    "class": "PreMoto3/Promo3",
+    "session": "Ent. Libre 2",
+    "circuit": "Circuito do Estoril"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/04/SBK-Carrera1-1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "mastertiming",
+   "meta": {
+    "year": 2022,
+    "class": "SBK",
+    "session": "Carrera 1",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/04/Premoto3-Wup.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2022,
+    "class": "PreMoto3/Promo3",
+    "session": "Warm-Up",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/04/SSP_NG-Race2R.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2022,
+    "class": "Supersport NG",
+    "session": "Carrera 2R",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/04/Womens-Race2R.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2022,
+    "class": "Women’s 300",
+    "session": "Carrera 2R",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2022/04/HANDY-EntrCron_pub.pdf",
+   "error": "no results",
+   "warnings": [
+    "unknown layout"
+   ],
+   "layout": null,
+   "meta": {
+    "year": 2022,
+    "class": "Handy ESBK",
+    "session": "Ent. Cronometrado",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Moto4_Carrera1_revisada.pdf",
+   "error": "download: 404 Client Error: Not Found for url: https://rfme.com/wp-content/uploads/2021/12/Moto4_Carrera1_revisada.pdf",
+   "meta": {
+    "year": 2021,
+    "class": "Moto4",
+    "session": "Carrera 1 – revisada",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Supersport_Classification_Entrenamiento_Libre_3.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "Supersport",
+    "session": "Entrenamiento Libre 3",
+    "circuit": "Circuit de Barcelona-Catalunya"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Supersport_Classification_Entrenamiento_Libre_4.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "Supersport",
+    "session": "Entrenamiento Libre 4",
+    "circuit": "Circuit de Barcelona-Catalunya"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Supersport_Classification_Entrenamiento_Cronometrado.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "Supersport",
+    "session": "Entrenamiento Cronometrado",
+    "circuit": "Circuit de Barcelona-Catalunya"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/SS_WU-1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "Supersport",
+    "session": "Warm-up",
+    "circuit": "Circuit de Barcelona-Catalunya"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/SBKJunior_Parrilla_Carrera2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "",
+    "session": "Carrera 2",
+    "circuit": "Circuit de Barcelona-Catalunya"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Handy_ESBK_LIBRES_BOOKLET.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "Handy ESBK",
+    "session": "Entrenamiento Libre",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/SBK_Junior_CARRERA_1_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "unknown layout"
+   ],
+   "layout": null,
+   "meta": {
+    "year": 2021,
+    "class": "SBK Junior",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Supersport_CARRERA_1_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "Supersport",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/SBK_ENT__CRONOMETRADO_BOOKLET_LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "SBK",
+    "session": "Entrenamiento Cronometrado",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/SBK_CARRERA_1_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "SBK",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Moto4_ENT__CRONOMETRADO_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "Moto4",
+    "session": "Entrenamiento Cronometrado",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Moto4_CARRERA1-2_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "Moto4",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Premoto3_Promo3_ENT__CRONOMETRADO_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "PreMoto3/Promo3",
+    "session": "Entrenamiento Cronometrado",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Premoto3_Promo3_CARRERA_1_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "PreMoto3/Promo3",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Handy_ESBK_ENT__CRONOMETRADOS_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "Handy ESBK",
+    "session": "Entrenamiento Cronometrado",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Handy_ESBK_CARRERA_1_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "Handy ESBK",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Moto4_WARM_UP_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "Moto4",
+    "session": "Warm-up",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Moto4_CARRERA_2_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "Moto4",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Supersport_CARRERA_2_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "Supersport",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/SBK_WARM_UP_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "SBK",
+    "session": "Warm-up",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/SBK_CARRERA_2_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "SBK",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Premoto3_Promo3_WARM_UP_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "PreMoto3/Promo3",
+    "session": "Warm-up",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Premoto3_Promo3_CARRERA_2_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "PreMoto3/Promo3",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/SBK_Junior_WARM_UP_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "SBK Junior",
+    "session": "Warm-Up",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/SBK_Junior_CARRERA_2_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "SBK Junior",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Navarra"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2021/12/Handy_ESBK_CARRERA_2_BOOKLET.LOWRES.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "booklet",
+   "meta": {
+    "year": 2021,
+    "class": "Handy ESBK",
+    "session": "Carrera 2",
+    "circuit": "Circuito de Navarra"
    }
   }
  ]

@@ -29,7 +29,7 @@ NATS = set("""ESP POR PRT FRA ITA GBR GER DEU AUT SUI CHE BEL NED NLD AND ARG
 AUS BRA BUL BGR CHI CHL CHN COL CRI CZE DEN DNK EST FIN GRE GRC HUN IRL ISR
 JPN KOR LAT LVA LIT LTU LUX MAS MYS MEX MAR NOR NZL PER POL ROU RSA ZAF RUS
 SMR SRB SVK SLO SVN SWE THA TUR UKR USA URU VEN IND IDN PHI SGP HKG TPE QAT
-UAE SAU KUW MCO MON GUA DOM PAN ECU BOL PAR PRY""".split())
+UAE SAU KUW MCO MON GUA DOM PAN ECU BOL PAR PRY SPA TWN MYS DNK BGR""".split())
 
 SPANISH_MONTHS = {
     "enero": 1, "febrero": 2, "marzo": 3, "abril": 4, "mayo": 5, "junio": 6,
@@ -98,8 +98,15 @@ def find_date(text: str):
 
 
 def detect_layout(full_text: str):
-    if "crono-jerez" in full_text or "CLASIFICACIÓN DE CARRERA" in full_text \
-            or "RESULTADOS ENTRENAMIENTOS" in full_text:
+    if "getraceresults" in full_text or "Laps and Sector Times" in full_text \
+            or re.search(r"Pos\s+Nbr\s+Name\s+Motorcycle", full_text):
+        return "getraceresults"
+    if re.search(r"POS\s+NO\s+NAME\s+NAT\s+ENTRY", full_text):
+        return "beon"
+    if "crono-jerez" in full_text \
+            or re.search(r"^CLASIFICACIÓN( (DE )?CARRERA)?\s*$", full_text, re.M) \
+            or re.search(r"RESULTADOS ENTRENAMIENTOS|^RESULTADOS\s*$",
+                         full_text, re.I | re.M):
         return "cronojerez"
     if "ANÁLISIS VUELTA A VU" in full_text or "Nº Corredor" in full_text \
             or "MEJORES VELOCIDADES" in full_text and "T.Transc" in full_text:
@@ -243,9 +250,10 @@ def parse_cronojerez(pdf, pages_text, out):
                     name_map.setdefault(int(m.group(1)), m.group(2).strip())
 
     race_pages = [i for i, t in enumerate(pages_text)
-                  if re.search(r"^CLASIFICACIÓN( DE CARRERA)?\s*$", t, re.M)]
+                  if re.search(r"^CLASIFICACIÓN( (DE )?CARRERA)?\s*$", t, re.M)]
     practice_pages = [i for i, t in enumerate(pages_text)
-                      if "RESULTADOS ENTRENAMIENTOS" in t]
+                      if re.search(r"RESULTADOS ENTRENAMIENTOS|"
+                                   r"^RESULTADOS\s*$", t, re.I | re.M)]
     if race_pages:
         _cj_race_classification(pages_text[race_pages[0]], out, name_map)
     elif practice_pages:
@@ -355,7 +363,8 @@ def _cj_practice_classification(text, out):
     for line in text.splitlines():
         line = line.strip()
         tm = tail.search(line)
-        hm = re.match(r"^(\d{1,2})\s+(\d{1,3})\s+(\S{1,4})\s+(.+)$",
+        # class-code column ('spb', '300') present in multi-class sessions only
+        hm = re.match(r"^(\d{1,2})\s+(\d{1,3})\s+(?:([a-z0-9]{1,4})\s+)?(.+)$",
                       line[:tm.start()] if tm else "")
         if not tm or not hm:
             continue
@@ -682,6 +691,8 @@ def parse_mastertiming(pdf, pages_text, out):
     for t in pages_text:
         if re.search(r"\bResults\b", t[:400]) or "Best Lap" in t[:600]:
             _mt_classification(t, out)
+            if not out["results"]:
+                _mt_practice_classification(t, out)
             break
     out["_cur_rider"] = None
     for i, t in enumerate(pages_text):
@@ -730,6 +741,39 @@ def _mt_classification(text, out):
             gap=fmt(gap) if gap and "Lap" not in (gap or "") else gap,
             best_lap=fmt(best), best_lap_s=t2s(best), best_lap_no=int(il),
             tyres=tyre, status="OK" if pos != "." else "DNF"))
+    if not out.get("date"):
+        out["date"] = find_date(text)
+
+
+def _mt_practice_classification(text, out):
+    # '2 48 GARCIA, Andres Igaxteam BEON ESP 01:55,196 6 13 00:00,594 00:00,594 125,16 DU M4'
+    pat = re.compile(
+        r"^(\d{1,2}|\.)\s+(\d{1,3})\s+(\S[^,]*,\s*[^\s].*?)\s+([A-Z]{3})\s+"
+        r"(\d{2}:\d{2},\d{3})\s+(\d{1,2})\s+(\d{1,2})\s+"
+        r"(?:(\d{2}:\d{2},\d{3})\s+(\d{2}:\d{2},\d{3})\s+)?"
+        r"([\d]+,[\d]+)\s*(.*)$")
+    for raw in text.splitlines():
+        line = raw.strip()
+        m = pat.match(line)
+        if not m:
+            continue
+        (pos, no, nameteam, nat, best, il, laps, gap, _intv, speed,
+         _trail) = m.groups()
+        if nat not in NATS:
+            continue
+        # nameteam = 'GARCIA, Andres Igaxteam BEON' -> split after given name
+        nm = re.match(r"^(\S[^,]*,\s*\S+(?:\s+[A-Z]\.)?)\s*(.*)$", nameteam)
+        name, team = (nm.group(1), nm.group(2)) if nm else (nameteam, "")
+        bike = next((b for b in BRANDS
+                     if re.search(r"\b" + b + r"\b", team.upper())), None)
+        if bike:
+            team = re.sub(r"\b" + bike + r"\b", "", team, flags=re.I).strip()
+        out["results"].append(result_row(
+            pos=None if pos == "." else int(pos), no=int(no),
+            rider=name.strip(), nat=nat, team=team or None, bike=bike,
+            laps=int(laps), gap=fmt(gap) if gap else None,
+            best_lap=fmt(best), best_lap_s=t2s(best), best_lap_no=int(il),
+            top_speed=fnum(speed)))
     if not out.get("date"):
         out["date"] = find_date(text)
 
@@ -842,7 +886,7 @@ def _nv_practice_classification(text, out):
         tm = tail.search(line)
         if not tm:
             continue
-        hm = re.match(r"^(\d{1,2})\s+(\d{1,3})\s+(.+?)\s+(\d{1,3})\s+(\S+)$",
+        hm = re.match(r"^(\d{1,2})\s+(\d{1,3})\s+(.+?)\s+(\d{1,3})(?:\s+(\D.*))?$",
                       line[:tm.start()])
         if not hm:
             continue
@@ -902,12 +946,165 @@ def _nv_vmax(text, out):
 
 
 # --------------------------------------------------------------------------
+# getraceresults (Circuit Ricardo Tormo 2024+)
+# --------------------------------------------------------------------------
+
+def parse_getraceresults(pdf, pages_text, out):
+    for t in pages_text:
+        if re.search(r"^Result\s", t, re.M) or "Pos Nbr Name" in t:
+            _grr_classification(t, out)
+            break
+    out["_cur_rider"] = None
+    for i, t in enumerate(pages_text):
+        if "Laps and Sector Times" in t:
+            for half_text in _halves_text(pdf.pages[i]):
+                _grr_laps(half_text, out)
+    out.pop("_cur_rider", None)
+    # vmax from per-lap top speeds
+    for lr in out["laps"]:
+        speeds = [(l["speed"], l["lap"]) for l in lr["laps"] if l.get("speed")]
+        if speeds:
+            v, lap = max(speeds)
+            rider = next((r["rider"] for r in out["results"]
+                          if r["no"] == lr["no"]), None)
+            _set_vmax(out, lr["no"], rider, v, lap)
+
+
+def _grr_classification(text, out):
+    # race:     '2 85 ENZO ZARAGOZA BeOn 0.030 22:48.400 1:52.456 3 126.43'
+    # winner:   '1 44 LEONARDO CASADEI BeOn -- 12 laps -- 22:48.370 1:52.977 5 126.43'
+    # practice: '2 29 DAVID GOMEZ BeOn 2:09.180 2 3.894 3.894 9 111.61'
+    race = re.compile(
+        r"^(\d{1,2})\s+(\d{1,3})\s+(.+?)\s+"
+        r"(--\s*\d+\s*laps?\s*--|\+?[\d:.]+|\d+\s*laps?)\s+"
+        r"(\d+:\d{2}\.\d{3})\s+(\d:\d{2}\.\d{3})\s+(\d{1,2})\s+"
+        r"(\d{2,3}\.\d{1,2})\s*$")
+    practice = re.compile(
+        r"^(\d{1,2})\s+(\d{1,3})\s+(.+?)\s+(\d:\d{2}\.\d{3})\s+(\d{1,2})\s+"
+        r"(?:([\d:.]+)\s+([\d:.]+)\s+)?(\d{1,2})\s+(\d{2,3}\.\d{1,2})\s*$")
+    lapsm = re.search(r"\((\d+)\s+Laps", text)
+    total_laps = int(lapsm.group(1)) if lapsm else None
+    for raw in text.splitlines():
+        line = raw.strip()
+        m = race.match(line)
+        if m:
+            pos, no, blob, gap, total, best, bl_no, _avg = m.groups()
+            rider, bike = _grr_split(blob)
+            wm = re.match(r"^--\s*(\d+)\s*laps?\s*--$", gap)
+            out["results"].append(result_row(
+                pos=int(pos), no=int(no), rider=rider, bike=bike,
+                laps=int(wm.group(1)) if wm else total_laps,
+                time=total, time_s=t2s(total),
+                gap=None if wm else gap, best_lap=best, best_lap_s=t2s(best),
+                best_lap_no=int(bl_no)))
+            continue
+        m = practice.match(line)
+        if m:
+            pos, no, blob, best, bl_no, gap, _diff, laps, _kph = m.groups()
+            rider, bike = _grr_split(blob)
+            out["results"].append(result_row(
+                pos=int(pos), no=int(no), rider=rider, bike=bike,
+                laps=int(laps), gap=gap, best_lap=best, best_lap_s=t2s(best),
+                best_lap_no=int(bl_no)))
+    if not out.get("date"):
+        m = re.search(r"(\d{1,2})\s*-\s*\d{1,2}\s+"
+                      r"(January|February|March|April|May|June|July|August|"
+                      r"September|October|November|December)\s+(20\d\d)", text)
+        if m:
+            months = ["January", "February", "March", "April", "May", "June",
+                      "July", "August", "September", "October", "November",
+                      "December"]
+            out["date"] = (f"{int(m.group(3)):04d}-"
+                           f"{months.index(m.group(2)) + 1:02d}-"
+                           f"{int(m.group(1)):02d}")
+
+
+def _grr_split(blob):
+    """Rider blob may end with a mixed-case motorcycle token ('BeOn')."""
+    m = re.search(r"\s(\S*[a-z]\S*)$", blob)
+    if m:
+        return blob[:m.start()].strip(), m.group(1)
+    return blob.strip(), None
+
+
+def _grr_laps(text, out):
+    hdr = re.compile(r"^(\d{1,3})\s+([A-ZÀ-Ú][A-ZÀ-Ú\.\'\- ]{3,})$")
+    row = re.compile(
+        r"^(\d{1,2})\s+(\d{2}\.\d{3})\s+(\d{2}\.\d{3})\s+(\d{2}\.\d{3})\s+"
+        r"(\d{2}\.\d{3})\s+(\d{2,3}\.\d)\s+(\d+:\d{2}\.\d{3})(?:\s+pit)?\s*$")
+    for raw in text.splitlines():
+        line = raw.strip()
+        m = hdr.match(line)
+        if m:
+            out["_cur_rider"] = int(m.group(1))
+            out.setdefault("_lap_riders", []).append(
+                dict(no=int(m.group(1)), name=m.group(2).strip()))
+            continue
+        m = row.match(line)
+        if m and out.get("_cur_rider") is not None:
+            lap, s1, s2, s3, s4, spd, lt = m.groups()
+            _add_lap(out, out["_cur_rider"], int(lap), time=lt, time_s=t2s(lt),
+                     sectors=[t2s(s1), t2s(s2), t2s(s3), t2s(s4)],
+                     speed=fnum(spd))
+
+
+# --------------------------------------------------------------------------
+# beon (Navarra 2024 single-page classifications)
+# --------------------------------------------------------------------------
+
+def parse_beon(pdf, pages_text, out):
+    nat_re = "|".join(sorted(NATS))
+    # practice: 'POS NO NAME NAT ENTRY TIME ON LAPS GAP DIFF KPH'
+    practice = re.compile(
+        r"^(\d{1,2})\s+(\d{1,3})\s+(.+?)\s+(" + nat_re + r")\s+(.*?)\s+"
+        r"(\d+:\d{2}\.\d{3})\s+(\d{1,2})\s+(\d{1,2})"
+        r"(?:\s+([\d:.]+)\s+([\d:.]+))?\s+(\d{2,3},\d{1,2})\s*$")
+    # race: 'POS NO NAME NAT ENTRY LAPS TIME GAP DIFF KPH BEST ON GRD d'
+    race = re.compile(
+        r"^(\d{1,2})\s+(\d{1,3})\s+(.+?)\s+(" + nat_re + r")\s+(.*?)\s+"
+        r"(\d{1,2})\s+(\d+:\d{2}\.\d{3})(?:\s+([\d:.]+)\s+([\d:.]+))?\s+"
+        r"(\d{2,3},\d{1,2})\s+(\d:\d{2}\.\d{3})\s+(\d{1,2})\s+"
+        r"(\d{1,2})\s+(-?\d+|↑?↓?\d*)\s*$")
+    for t in pages_text:
+        if "CLASSIFICATION" not in t.upper():
+            continue
+        for raw in t.splitlines():
+            line = raw.strip()
+            m = race.match(line)
+            if m:
+                (pos, no, name, nat, entry, laps, total, gap, _diff, _kph,
+                 best, on, _grd, _delta) = m.groups()
+                out["results"].append(result_row(
+                    pos=int(pos), no=int(no), rider=name.strip(), nat=nat,
+                    team=_beon_team(entry), bike="BEON", laps=int(laps),
+                    time=total, time_s=t2s(total), gap=gap, best_lap=best,
+                    best_lap_s=t2s(best), best_lap_no=int(on)))
+                continue
+            m = practice.match(line)
+            if m:
+                (pos, no, name, nat, entry, best, on, laps, gap, _diff,
+                 _kph) = m.groups()
+                out["results"].append(result_row(
+                    pos=int(pos), no=int(no), rider=name.strip(), nat=nat,
+                    team=_beon_team(entry), bike="BEON", laps=int(laps),
+                    best_lap=best, best_lap_s=t2s(best),
+                    best_lap_no=int(on), gap=gap))
+        if out["results"]:
+            out["date"] = out.get("date") or find_date(t)
+            break
+
+
+def _beon_team(entry):
+    return re.sub(r"^BeOn\s*-?\s*", "", entry or "").strip(" -") or None
+
 
 PARSERS = {
     "cronojerez": parse_cronojerez,
     "booklet": parse_booklet,
     "mastertiming": parse_mastertiming,
     "navarra": parse_navarra,
+    "getraceresults": parse_getraceresults,
+    "beon": parse_beon,
 }
 
 

@@ -95,6 +95,8 @@ def main():
     ap.add_argument("--retry-failed", action="store_true",
                     help="also reprocess URLs whose last status was not ok")
     ap.add_argument("--workers", type=int, default=6)
+    ap.add_argument("--processes", action="store_true",
+                    help="use a process pool (faster re-parse of cached PDFs)")
     args = ap.parse_args()
 
     inventory = load_json(DATA / "inventory.json", [])
@@ -117,7 +119,10 @@ def main():
     report["failures"] = [f for f in report["failures"]
                           if f["url"] not in {r["url"] for r in todo}]
     done = ok = 0
-    with cf.ThreadPoolExecutor(max_workers=args.workers) as pool:
+    # parsing is CPU-bound; processes beat threads once PDFs are cached
+    Executor = (cf.ProcessPoolExecutor if args.processes
+                else cf.ThreadPoolExecutor)
+    with Executor(max_workers=args.workers) as pool:
         for rec, parsed, err in pool.map(process, todo):
             done += 1
             entry = {"status": "error", "error": err}
