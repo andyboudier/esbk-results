@@ -9110,5 +9110,250 @@
 "results": 32,
 "lap_riders": 36,
 "warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/ESBK-Talent_Libres-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-esbk-talent-ent-libre-3",
+"results": 27,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Pre-Talent_Libres-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-pre-talent-ent-libre-3",
+"results": 14,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Supersport-300_Libres-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-supersport-300-ent-libre-3",
+"results": 14,
+"lap_riders": 9,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/SBK_Libres-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-sbk-ent-libre-3",
+"results": 17,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Supersport_Libres-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-supersport-ent-libre-3",
+"results": 21,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Sportbike_Libres-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-sportbike-ent-libre-3",
+"results": 12,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Yamaha-R7_Libres-3_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-yamaha-r7-ent-libre-3",
+"results": 29,
+"lap_riders": 22,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/ESBK-Talent_Libres-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-esbk-talent-ent-libre-4",
+"results": 27,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Pre-Talent_Libres-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-pre-talent-ent-libre-4",
+"results": 14,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Supersport-300_Libres-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-supersport-300-ent-libre-4",
+"results": 15,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/SBK_Libres-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-sbk-ent-libre-4",
+"results": 17,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Supersport_Libres-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-supersport-ent-libre-4",
+"results": 20,
+"lap_riders": 19,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Sportbike_Libres-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-sportbike-ent-libre-4",
+"results": 12,
+"lap_riders": 9,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Yamaha-R7_Libres-4_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-yamaha-r7-ent-libre-4",
+"results": 29,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/ESBK-Talent_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-esbk-talent-ent-crono",
+"results": 25,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Pre-Talent_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-pre-talent-ent-crono",
+"results": 14,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Supersport-300_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-supersport-300-ent-crono",
+"results": 15,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/SBK_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-sbk-ent-crono",
+"results": 4,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Supersport_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-supersport-ent-crono",
+"results": 20,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Sportbike_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-sportbike-ent-crono",
+"results": 12,
+"lap_riders": 7,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Yamaha-R7_Entrenamiento-Cronometrado_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-yamaha-r7-ent-crono",
+"results": 30,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/ESBK-Talent_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-esbk-talent-carrera-1",
+"results": 27,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Pre-Talent_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-pre-talent-carrera-1",
+"results": 14,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Supersport-300_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-supersport-300-carrera-1",
+"results": 14,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/SBK_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-sbk-carrera-1",
+"results": 15,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Supersport_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-supersport-carrera-1",
+"results": 20,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Sportbike_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-sportbike-carrera-1",
+"results": 11,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Yamaha-R7_Carrera-1_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-yamaha-r7-carrera-1",
+"results": 30,
+"lap_riders": 26,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/ESBK-Talent_Carrera-2-_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-esbk-talent-carrera-2",
+"results": 26,
+"lap_riders": 23,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Pre-Talent_Carrera-2-_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-pre-talent-carrera-2",
+"results": 14,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Supersport-300_Carrera-2-_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-supersport-300-carrera-2",
+"results": 15,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/SBK_Carrera-2-_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-sbk-carrera-2",
+"results": 16,
+"lap_riders": 14,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Supersport_Carrera-2-_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-supersport-carrera-2",
+"results": 19,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Sportbike_Carrera-2-_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-sportbike-carrera-2",
+"results": 12,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/07/Yamaha-R7_Carrera-2-_BOOKLET.pdf": {
+"status": "ok",
+"session_id": "2026-04-motorland-aragon-yamaha-r7-carrera-2",
+"results": 30,
+"lap_riders": 27,
+"warnings": []
 }
 }
