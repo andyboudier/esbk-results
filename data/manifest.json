@@ -9355,5 +9355,316 @@
 "results": 30,
 "lap_riders": 27,
 "warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/ESBKTalent_Entr_Libres3.pdf": {
+"status": "error",
+"error": "download: 404 Client Error: Not Found for url: https://rfme.com/wp-content/uploads/2026/09/ESBKTalent_Entr_Libres3.pdf"
+},
+"https://rfme.com/wp-content/uploads/2026/09/PreTalent_Entr_Libres3.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-pre-talent-ent-libre-3",
+"results": 0,
+"lap_riders": 12,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SSP300_Entr_Libres3.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-supersport-300-ent-libre-3",
+"results": 0,
+"lap_riders": 12,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SBK_Entr_Libres3.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-sbk-ent-libre-3",
+"results": 0,
+"lap_riders": 15,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SSP_Entr_Libres3.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-supersport-ent-libre-3",
+"results": 0,
+"lap_riders": 21,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/Sportbike_Entr_Libres3.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-sportbike-ent-libre-3",
+"results": 0,
+"lap_riders": 11,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/Y_R7_Entr_Libres3.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-yamaha-r7-ent-libre-3",
+"results": 0,
+"lap_riders": 21,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/ESBKTalent_Entr_Libres4.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-esbk-talent-ent-libre-4",
+"results": 0,
+"lap_riders": 26,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/PreTalent_Entr_Libres4.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-pre-talent-ent-libre-4",
+"results": 0,
+"lap_riders": 7,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SSP300_Entr_Libres4.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-supersport-300-ent-libre-4",
+"results": 0,
+"lap_riders": 10,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SBK_Entr_Libres4.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-sbk-ent-libre-4",
+"results": 0,
+"lap_riders": 18,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SSP_Entr_Libres4.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-supersport-ent-libre-4",
+"results": 0,
+"lap_riders": 16,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/Sportbike_Entr_Libres4.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-sportbike-ent-libre-4",
+"results": 0,
+"lap_riders": 12,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/Y_R7_Entr_Libres4.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-yamaha-r7-ent-libre-4",
+"results": 0,
+"lap_riders": 27,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/ESBKTalent_crono.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-esbk-talent-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/PreTalent_crono.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-pre-talent-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SSP300_Crono.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-supersport-300-ent-crono",
+"results": 0,
+"lap_riders": 12,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SBK_Crono.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-sbk-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SSP_Crono-1.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-supersport-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/Sportbike_Crono.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-sportbike-ent-crono",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/Y_R7_Crono_Rev.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-yamaha-r7-ent-crono-rev",
+"results": 0,
+"lap_riders": 0,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/ESBK_Talent_Race1.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-esbk-talent-carrera-1",
+"results": 0,
+"lap_riders": 22,
+"warnings": [
+"1 laps with sector/time mismatch",
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/PreTalent_race1.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-pre-talent-carrera-1",
+"results": 0,
+"lap_riders": 10,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SSP300_Race1.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-supersport-300-carrera-1",
+"results": 0,
+"lap_riders": 11,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SBK_Race1_REV.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-sbk-carrera-1-rev",
+"results": 0,
+"lap_riders": 16,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SSP_Race1.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-supersport-carrera-1",
+"results": 0,
+"lap_riders": 15,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/Sportbike_Race1.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-sportbike-carrera-1",
+"results": 0,
+"lap_riders": 10,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/Y_R7_Race1.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-yamaha-r7-carrera-1",
+"results": 0,
+"lap_riders": 25,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/ESBK_Talent_Race2.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-esbk-talent-carrera-2",
+"results": 0,
+"lap_riders": 22,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/PreTalent_race2.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-pre-talent-carrera-2",
+"results": 0,
+"lap_riders": 10,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SSP300_Race2-1.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-supersport-300-carrera-2",
+"results": 0,
+"lap_riders": 12,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SBK_Race2.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-sbk-carrera-2",
+"results": 0,
+"lap_riders": 17,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/SSP_Race2.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-supersport-carrera-2",
+"results": 0,
+"lap_riders": 20,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/Sportbike_Race2.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-sportbike-carrera-2",
+"results": 0,
+"lap_riders": 11,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/Y_R7_Race2-1.pdf": {
+"status": "empty",
+"session_id": "2026-05-circuit-ricardo-tormo-yamaha-r7-carrera-2",
+"results": 0,
+"lap_riders": 26,
+"warnings": [
+"no classification parsed"
+]
 }
 }

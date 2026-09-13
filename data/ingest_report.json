@@ -1349,6 +1349,493 @@
     "session": "Carrera 2",
     "circuit": "Circuito de Navarra"
    }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/ESBKTalent_Entr_Libres3.pdf",
+   "error": "download: 404 Client Error: Not Found for url: https://rfme.com/wp-content/uploads/2026/09/ESBKTalent_Entr_Libres3.pdf",
+   "meta": {
+    "year": 2026,
+    "class": "ESBK Talent",
+    "session": "Ent. Libre 3",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/PreTalent_Entr_Libres3.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Pre Talent",
+    "session": "Ent. Libre 3",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SSP300_Entr_Libres3.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Supersport 300",
+    "session": "Ent. Libre 3",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SBK_Entr_Libres3.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "SBK",
+    "session": "Ent. Libre 3",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SSP_Entr_Libres3.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Supersport",
+    "session": "Ent. Libre 3",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/Sportbike_Entr_Libres3.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Sportbike",
+    "session": "Ent. Libre 3",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/Y_R7_Entr_Libres3.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Yamaha R7",
+    "session": "Ent. Libre 3",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/ESBKTalent_Entr_Libres4.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "ESBK Talent",
+    "session": "Ent. Libre 4",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/PreTalent_Entr_Libres4.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Pre Talent",
+    "session": "Ent. Libre 4",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SSP300_Entr_Libres4.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Supersport 300",
+    "session": "Ent. Libre 4",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SBK_Entr_Libres4.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "SBK",
+    "session": "Ent. Libre 4",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SSP_Entr_Libres4.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Supersport",
+    "session": "Ent. Libre 4",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/Sportbike_Entr_Libres4.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Sportbike",
+    "session": "Ent. Libre 4",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/Y_R7_Entr_Libres4.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Yamaha R7",
+    "session": "Ent. Libre 4",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/ESBKTalent_crono.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "ESBK Talent",
+    "session": "Ent. Crono",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/PreTalent_crono.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Pre Talent",
+    "session": "Ent. Crono",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SSP300_Crono.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Supersport 300",
+    "session": "Ent. Crono",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SBK_Crono.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "SBK",
+    "session": "Ent. Crono",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SSP_Crono-1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Supersport",
+    "session": "Ent. Crono",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/Sportbike_Crono.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Sportbike",
+    "session": "Ent. Crono",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/Y_R7_Crono_Rev.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Yamaha R7",
+    "session": "Ent. Crono_Rev",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/ESBK_Talent_Race1.pdf",
+   "error": "no results",
+   "warnings": [
+    "1 laps with sector/time mismatch",
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "ESBK Talent",
+    "session": "Carrera 1",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/PreTalent_race1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Pre Talent",
+    "session": "Carrera 1",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SSP300_Race1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Supersport 300",
+    "session": "Carrera 1",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SBK_Race1_REV.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "SBK",
+    "session": "Carrera 1 Rev",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SSP_Race1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Supersport",
+    "session": "Carrera 1",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/Sportbike_Race1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Sportbike",
+    "session": "Carrera 1",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/Y_R7_Race1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Yamaha R7",
+    "session": "Carrera 1",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/ESBK_Talent_Race2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "ESBK Talent",
+    "session": "Carrera 2",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/PreTalent_race2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Pre Talent",
+    "session": "Carrera 2",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SSP300_Race2-1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Supersport 300",
+    "session": "Carrera 2",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SBK_Race2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "SBK",
+    "session": "Carrera 2",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/SSP_Race2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Supersport",
+    "session": "Carrera 2",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/Sportbike_Race2.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Sportbike",
+    "session": "Carrera 2",
+    "circuit": "Circuit Ricardo Tormo"
+   }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/09/Y_R7_Race2-1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "getraceresults",
+   "meta": {
+    "year": 2026,
+    "class": "Yamaha R7",
+    "session": "Carrera 2",
+    "circuit": "Circuit Ricardo Tormo"
+   }
   }
  ]
 }
