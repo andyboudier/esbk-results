@@ -9666,5 +9666,268 @@
 "warnings": [
 "no classification parsed"
 ]
+},
+"https://rfme.com/wp-content/uploads/2026/09/esbk-talent-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-esbk-talent-ent-libre-3",
+"results": 24,
+"lap_riders": 25,
+"warnings": [
+"7 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/pre-talent-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-pre-talent-ent-libre-3",
+"results": 13,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/supersport-300-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-supersport-300-ent-libre-3",
+"results": 13,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/sbk-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-sbk-ent-libre-3",
+"results": 12,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/supersport-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-supersport-ent-libre-3",
+"results": 17,
+"lap_riders": 17,
+"warnings": [
+"3 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/sportbike-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-sportbike-ent-libre-3",
+"results": 11,
+"lap_riders": 11,
+"warnings": [
+"2 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/yamaha-r7-entrenamiento-libre-3-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-yamaha-r7-ent-libre-3",
+"results": 31,
+"lap_riders": 31,
+"warnings": [
+"2 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/esbk-talent-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-esbk-talent-ent-libre-4",
+"results": 24,
+"lap_riders": 24,
+"warnings": [
+"10 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/pre-talent-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-pre-talent-ent-libre-4",
+"results": 13,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/supersport-300-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-supersport-300-ent-libre-4",
+"results": 12,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/sbk-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-sbk-ent-libre-4",
+"results": 13,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/supersport-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-supersport-ent-libre-4",
+"results": 17,
+"lap_riders": 17,
+"warnings": [
+"2 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/sportbike-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-sportbike-ent-libre-4",
+"results": 9,
+"lap_riders": 10,
+"warnings": [
+"1 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/yamaha-r7-entrenamiento-libre-4-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-yamaha-r7-ent-libre-4",
+"results": 30,
+"lap_riders": 30,
+"warnings": [
+"1 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/esbk-talent-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-esbk-talent-ent-crono",
+"results": 24,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/pre-talent-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-pre-talent-ent-crono",
+"results": 12,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/supersport-300-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-supersport-300-ent-crono",
+"results": 13,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/sbk-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-sbk-ent-crono",
+"results": 13,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/supersport-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-supersport-ent-crono",
+"results": 17,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/sportbike-entrenamiento-cronometrado-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-sportbike-ent-crono",
+"results": 11,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/yamaha-r7-entrenamiento-cronometrado-ClasificacionREVISADA.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-yamaha-r7-ent-crono-revisada",
+"results": 31,
+"lap_riders": 32,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/esbk-talent-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-esbk-talent-carrera-1",
+"results": 22,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/pre-talent-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-pre-talent-carrera-1",
+"results": 12,
+"lap_riders": 12,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/supersport-300-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-supersport-300-carrera-1",
+"results": 9,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/sbk-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-sbk-carrera-1",
+"results": 11,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/supersport-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-supersport-carrera-1",
+"results": 16,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/sportbike-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-sportbike-carrera-1",
+"results": 9,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/yamaha-r7-carrera-1-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-yamaha-r7-carrera-1",
+"results": 26,
+"lap_riders": 27,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/esbk-talent-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-esbk-talent-carrera-2",
+"results": 21,
+"lap_riders": 23,
+"warnings": [
+"1 laps with sector/time mismatch"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/09/pre-talent-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-pre-talent-carrera-2",
+"results": 10,
+"lap_riders": 0,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/supersport-300-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-supersport-300-carrera-2",
+"results": 11,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/sbk-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-sbk-carrera-2",
+"results": 8,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/supersport-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-supersport-carrera-2",
+"results": 16,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/sportbike-carrera-2-Clasificacion.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-sportbike-carrera-2",
+"results": 9,
+"lap_riders": 11,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/09/yamaha-r7-carrera-2-ClasificacionREVISADA.pdf": {
+"status": "ok",
+"session_id": "2026-06-circuito-de-navarra-yamaha-r7-carrera-2-revisada",
+"results": 24,
+"lap_riders": 27,
+"warnings": []
 }
 }
