@@ -687,6 +687,20 @@
  },
  {
   "year": 2026,
+  "round": 6,
+  "circuit": "Circuito de Navarra",
+  "heading": "6. Circuito de Navarra – Clasificaciones Provisionales",
+  "dates_text": "Clasificaciones Provisionales",
+  "date_start": null,
+  "date_end": null,
+  "class": "Clasificaciones Provisionales",
+  "session": "Pilotos",
+  "url": "https://rfme.com/wp-content/uploads/2026/09/ESBK-2026-PILOTOS-despues-de-Navarra-II.pdf",
+  "kind": "other",
+  "event_slug": "2026-06-circuito-de-navarra"
+ },
+ {
+  "year": 2026,
   "round": 5,
   "circuit": "Circuit Ricardo Tormo",
   "heading": "5. Circuit Ricardo Tormo – 11, 12 y 13 de Septiembre de 2026",
@@ -1369,6 +1383,20 @@
   "session": "Carrera 2",
   "url": "https://rfme.com/wp-content/uploads/2026/09/Y_R7_Race2-1.pdf",
   "kind": "result",
+  "event_slug": "2026-05-circuit-ricardo-tormo"
+ },
+ {
+  "year": 2026,
+  "round": 5,
+  "circuit": "Circuit Ricardo Tormo",
+  "heading": "5. Circuit Ricardo Tormo – Clasificaciones Provisionales",
+  "dates_text": "Clasificaciones Provisionales",
+  "date_start": null,
+  "date_end": null,
+  "class": "Clasificaciones Provisionales",
+  "session": "Pilotos",
+  "url": "https://rfme.com/wp-content/uploads/2026/09/ESBK-2026-PILOTOS-despues-de-Ricardo-Tormo.pdf",
+  "kind": "other",
   "event_slug": "2026-05-circuit-ricardo-tormo"
  },
  {
