@@ -9929,5 +9929,215 @@
 "results": 24,
 "lap_riders": 27,
 "warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/talli1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-esbk-talent-ent-libre-3",
+"results": 25,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/preli1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-pre-talent-ent-libre-3",
+"results": 17,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/300li1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-supersport-300-ent-libre-3",
+"results": 10,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/sbkli1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-sbk-ent-libre-3",
+"results": 21,
+"lap_riders": 21,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/sspli1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-supersport-ent-libre-3",
+"results": 28,
+"lap_riders": 29,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/spbli1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-sportbike-ent-libre-3",
+"results": 14,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/proli1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-promo3-ent-libre-3",
+"results": 28,
+"lap_riders": 28,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/bagli1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-baggers-ent-libre-3",
+"results": 8,
+"lap_riders": 9,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/talli2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-esbk-talent-ent-libre-4",
+"results": 25,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/preli2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-pre-talent-ent-libre-4",
+"results": 17,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/300li2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-supersport-300-ent-libre-4",
+"results": 13,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/sbkli2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-sbk-ent-libre-4",
+"results": 20,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/sspli2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-supersport-ent-libre-4",
+"results": 29,
+"lap_riders": 29,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/spbli2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-sportbike-ent-libre-4",
+"results": 16,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/proli2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-promo3-ent-libre-4",
+"results": 28,
+"lap_riders": 29,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/bagli2-1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-baggers-ent-libre-4",
+"results": 8,
+"lap_riders": 9,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/talent.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-esbk-talent-ent-crono",
+"results": 25,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/preent.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-pre-talent-ent-crono",
+"results": 17,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/300ent.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-supersport-300-ent-crono",
+"results": 13,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/sbkent.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-sbk-ent-crono",
+"results": 17,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/sspent.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-supersport-ent-crono",
+"results": 28,
+"lap_riders": 28,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/spbent.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-sportbike-ent-crono",
+"results": 16,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/proent.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-promo3-ent-crono",
+"results": 29,
+"lap_riders": 29,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/bagent.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-baggers-ent-crono",
+"results": 9,
+"lap_riders": 10,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/talca1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-esbk-talent-carrera-1",
+"results": 24,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/preca1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-pre-talent-carrera-1",
+"results": 17,
+"lap_riders": 17,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/sbkca1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-sbk-carrera-1",
+"results": 18,
+"lap_riders": 18,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/sspca1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-supersport-carrera-1",
+"results": 24,
+"lap_riders": 24,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/spbca1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-sportbike-carrera-1",
+"results": 16,
+"lap_riders": 16,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/10/bagca1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-baggers-carrera-1",
+"results": 9,
+"lap_riders": 10,
+"warnings": []
 }
 }
