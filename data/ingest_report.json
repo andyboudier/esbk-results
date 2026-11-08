@@ -1836,6 +1836,20 @@
     "session": "Carrera 2",
     "circuit": "Circuit Ricardo Tormo"
    }
+  },
+  {
+   "url": "https://rfme.com/wp-content/uploads/2026/11/300ca1.pdf",
+   "error": "no results",
+   "warnings": [
+    "no classification parsed"
+   ],
+   "layout": "cronojerez",
+   "meta": {
+    "year": 2026,
+    "class": "Supersport 300",
+    "session": "Carrera 1",
+    "circuit": "Circuito de Jerez Ángel Nieto"
+   }
   }
  ]
 }

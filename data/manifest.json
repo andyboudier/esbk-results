@@ -10139,5 +10139,77 @@
 "results": 9,
 "lap_riders": 10,
 "warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/11/300ca1.pdf": {
+"status": "empty",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-supersport-300-carrera-1",
+"results": 0,
+"lap_riders": 13,
+"warnings": [
+"no classification parsed"
+]
+},
+"https://rfme.com/wp-content/uploads/2026/11/proca1-1.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-promo3-carrera-1",
+"results": 27,
+"lap_riders": 27,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/11/talca2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-esbk-talent-carrera-2",
+"results": 23,
+"lap_riders": 25,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/11/preca2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-pre-talent-carrera-2",
+"results": 14,
+"lap_riders": 15,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/11/300ca2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-supersport-300-carrera-2",
+"results": 13,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/11/sbkca2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-sbk-carrera-2",
+"results": 20,
+"lap_riders": 20,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/11/sspca2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-supersport-carrera-2",
+"results": 27,
+"lap_riders": 27,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/11/spbca2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-sportbike-carrera-2",
+"results": 12,
+"lap_riders": 13,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/11/proca2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-promo3-carrera-2",
+"results": 29,
+"lap_riders": 29,
+"warnings": []
+},
+"https://rfme.com/wp-content/uploads/2026/11/bagca2.pdf": {
+"status": "ok",
+"session_id": "2026-07-circuito-de-jerez-angel-nieto-baggers-carrera-2",
+"results": 8,
+"lap_riders": 8,
+"warnings": []
 }
 }
